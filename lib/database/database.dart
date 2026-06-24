@@ -1,9 +1,15 @@
+import 'dart:convert';
+
 import 'package:drift/drift.dart';
 
-part 'database.g.dart';
-part 'tables/settings.dart';
+import '../api/api.dart' as api;
 
-@DriftDatabase(tables: <Type>[ExampleSettings])
+part 'database.g.dart';
+part 'tables/book_quote_users.dart';
+part 'tables/book_quotes.dart';
+part 'tables/books.dart';
+
+@DriftDatabase(tables: <Type>[Books, BookQuotes, BookQuoteUsers])
 class Database extends _$Database {
   Database(super.e);
 

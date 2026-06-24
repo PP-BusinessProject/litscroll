@@ -6,6 +6,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
+import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:http/http.dart';
 import 'package:rhttp/rhttp.dart';
@@ -23,7 +24,7 @@ import 'package:talker_riverpod_logger/talker_riverpod_logger.dart';
 import 'api/api.dart';
 import 'generated/env.g.dart';
 import 'generated/i18n.g.dart';
-import 'providers/api/api.dart';
+import 'providers/api.dart';
 import 'providers/preferences.dart';
 import 'routes.dart';
 
@@ -46,7 +47,6 @@ Future<void> main() {
         ..beforeSendLog = ((SentryLog log) => log)
         /// Performance
         ..tracesSampleRate = 0
-        ..profilesSampleRate = 0
         ..enableAutoPerformanceTracing = false
         ..enableFramesTracking = false
         ..enableTimeToFullDisplayTracing = false
@@ -67,7 +67,6 @@ Future<void> main() {
         ..reportPackages = false
         /// Screenshots
         ..attachScreenshot = false
-        ..attachViewHierarchy = false
         ..beforeCaptureScreenshot =
             ((SentryEvent event, Hint hint, bool shouldDebounce) =>
                 !shouldDebounce && event.level == SentryLevel.fatal);
@@ -78,7 +77,7 @@ Future<void> main() {
       FlutterNativeSplash.preserve(widgetsBinding: widgetsBinding);
 
       final Talker talker = Talker();
-      final Dio dio = Dio()
+      final Dio dio = Dio(BaseOptions(baseUrl: Config.apiUrl))
         ..interceptors.add(
           TalkerDioLogger(
             talker: talker,
@@ -111,10 +110,19 @@ Future<void> main() {
         container.read(themeProvider.future),
         container.read(localeProvider.future),
       ]);
+
+      final GoRouter router = GoRouter(
+        initialLocation: Routes.splash.location,
+        observers: <NavigatorObserver>[
+          SentryNavigatorObserver(setRouteNameAsTransaction: true),
+        ],
+        routes: Routes.routes,
+      );
+
       runApp(
         UncontrolledProviderScope(
           container: container,
-          child: TranslationProvider(child: const RoutesApp()),
+          child: TranslationProvider(child: RoutesApp(router)),
         ),
       );
 
@@ -139,7 +147,11 @@ Future<void> main() {
             DeviceOrientation.portraitDown,
           ]),
         ],
+        Future<void>.delayed(const Duration(seconds: 3)),
       ]);
+
+      final Routes<Object?> route = await Routes.current(container);
+      await route.pushReplacement(router);
     },
   );
 }

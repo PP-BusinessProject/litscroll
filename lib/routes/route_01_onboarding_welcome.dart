@@ -9,19 +9,19 @@ import '../routes.dart';
 import '../styles.dart';
 import '../styles/glass.dart';
 
-part 'onboarding_01_welcome_route.g.dart';
+part 'route_01_onboarding_welcome.g.dart';
 
 /// The welcome screen of the onboarding flow.
-@TypedGoRoute<Onboarding01WelcomeRoute>(path: '/onboarding/01_welcome')
-class Onboarding01WelcomeRoute extends GoRouteData
-    with $Onboarding01WelcomeRoute {
+@TypedGoRoute<OnboardingWelcomeRoute>(path: '/onboarding/01_welcome')
+class OnboardingWelcomeRoute extends GoRouteData with $OnboardingWelcomeRoute {
   /// The welcome screen of the onboarding flow.
-  const Onboarding01WelcomeRoute();
+  const OnboardingWelcomeRoute();
 
   @override
   Widget build(BuildContext context, GoRouterState state) =>
-      state.extra as Onboarding01WelcomeScreen? ??
-      const Onboarding01WelcomeScreen();
+      state.extra is OnboardingWelcomeScreen
+      ? state.extra! as OnboardingWelcomeScreen
+      : const OnboardingWelcomeScreen();
 
   @override
   CustomTransitionPage<void> buildPage(
@@ -41,15 +41,13 @@ class Onboarding01WelcomeRoute extends GoRouteData
 }
 
 /// The welcome screen of the onboarding flow.
-class Onboarding01WelcomeScreen extends HookConsumerWidget {
+class OnboardingWelcomeScreen extends HookConsumerWidget {
   /// The welcome screen of the onboarding flow.
-  const Onboarding01WelcomeScreen({super.key});
+  const OnboardingWelcomeScreen({super.key});
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final MediaQueryData mediaQuery = MediaQuery.of(context);
     final GoRouter router = GoRouter.of(context);
-
     final I18NOnboardingA01WelcomeEnUs i18n = I18N
         .of(context)
         .onboarding
@@ -96,7 +94,14 @@ class Onboarding01WelcomeScreen extends HookConsumerWidget {
               BoxStyler().height($Spaces.xl())(child: const SizedBox.shrink()),
               PressableBox(
                 style: glassButtonStyle(context),
-                onPress: () => Routes.onboarding00Splash.go(router),
+                onPress: () async {
+                  final Routes<Object?> route = await Routes.current(
+                    ref.container,
+                  );
+                  Routes.splash.go(router);
+                  await Future<void>.delayed(const Duration(seconds: 3));
+                  await route.pushReplacement(router);
+                },
                 child: TextStyler()
                     .fontSize(16)
                     .fontWeight(FontWeight.w600)

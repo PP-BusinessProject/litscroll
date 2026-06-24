@@ -69,6 +69,7 @@ dependencies:
   # Other
   ack: 1.0.0-beta.11
   collection: 1.19.1
+  convenient_test: &convenient_test_version 1.6.2
   crypto: 3.0.7
   flutter_multi_formatter: 2.13.10
   flutter_native_splash: 2.4.7
@@ -78,17 +79,23 @@ dependencies:
   riverpod_annotation: 4.0.3-dev.2
 
 dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
   build_runner: 2.15.0
   custom_lint: &custom_lint_version ^0.8.1
   mix_lint: 1.7.0
   riverpod_lint: 3.1.4-dev.3
+  shared_preferences_platform_interface: 2.4.2
   source_gen: 4.2.3
 
   # Tools
   flutter_launcher_icons: 0.14.4
 
   # Tests
-  convenient_test: 1.6.2
+  convenient_test_dev: *convenient_test_version
   patrol: 4.6.1
   patrol_finders: 3.5.0
   patrol_log: 0.9.0
@@ -167,3 +174,14 @@ flutter_gen:
     flutter_svg: true
     rive: true
     lottie: true
+
+
+patrol:
+  app_name: LitScroll
+  test_directory: test
+  android:
+    package_name: com.example.litscroll
+  ios:
+    bundle_id: com.example.LitScroll
+  macos:
+    bundle_id: com.example.macos.LitScroll

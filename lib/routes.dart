@@ -1,45 +1,74 @@
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_hooks/flutter_hooks.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:mix/mix.dart';
 import 'package:portal_labs/portal_labs.dart';
-import 'package:sentry_flutter/sentry_flutter.dart';
 
 import 'generated/i18n.g.dart';
 import 'providers/preferences.dart';
 import 'providers/supabase/authorization.dart';
-import 'routes/onboarding_00_splash_route.dart';
-import 'routes/onboarding_01_welcome_route.dart';
+import 'routes/route_00_splash.dart';
+import 'routes/route_01_onboarding_welcome.dart';
+import 'routes/route_02_onboarding_information.dart';
+import 'routes/route_03_home.dart';
+import 'routes/route_04_book.dart';
+import 'routes/route_05_reader.dart';
+import 'routes/route_06_favorites.dart';
 import 'styles.dart';
 
 /// The route in the app.
 enum Routes<Extra extends Object?> {
   /// The splash screen.
-  onboarding00Splash<Onboarding00SplashScreen?>(Onboarding00SplashRoute()),
+  splash<SplashScreen?>(SplashRoute()),
 
   /// The welcome screen.
-  onboarding01Welcome<Onboarding01WelcomeScreen?>(Onboarding01WelcomeRoute());
+  onboardingWelcome<OnboardingWelcomeScreen?>(OnboardingWelcomeRoute()),
+
+  /// The information screen.
+  onboardingInformation<OnboardingInformationScreen?>(
+    OnboardingInformationRoute(),
+  ),
+
+  /// The home screen.
+  home<HomeScreen?>(HomeRoute()),
+
+  /// The book screen.
+  book<BookScreen?>(BookRoute(0)),
+
+  /// The reader screen.
+  reader<ReaderScreen?>(ReaderRoute(0)),
+
+  /// The favorites screen.
+  favorites<FavoritesScreen?>(FavoritesRoute());
 
   /// The route in the app.
   const Routes(this._route, {this.key});
 
-  /// The name of this route.
+  /// The internal value of this route.
   GoRouteData get route => _route!;
   final GoRouteData? _route;
 
   /// The key for this route.
   final Key? key;
 
-  /// Return the current route depending on app's state.
-  static Routes<Object?> get initial => onboarding00Splash;
+  /// The router to use in app.
+  static final List<RouteBase> routes = <RouteBase>[
+    $splashRoute,
+    $onboardingWelcomeRoute,
+    $onboardingInformationRoute,
+    $homeRoute,
+    $bookRoute,
+    $readerRoute,
+    $favoritesRoute,
+  ];
 
   /// Return the current route depending on app's state.
   static Future<Routes<Object?>> current(ProviderContainer container) async {
     await container.read(authorizationProvider.future);
-    return onboarding01Welcome;
+    return onboardingWelcome;
   }
 
   /// The route location as specified in [route].
@@ -68,25 +97,20 @@ enum Routes<Extra extends Object?> {
 @immutable
 class RoutesApp extends HookConsumerWidget {
   /// The wrapper around [MaterialApp] to support hot reload.
-  const RoutesApp({super.key});
+  const RoutesApp(this.router, {super.key});
+
+  /// The router to use in the app.
+  final GoRouter router;
+
+  /// Navigator key used for testing.
+  static final GlobalKey<NavigatorState> navigatorKey =
+      GlobalKey<NavigatorState>();
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final I18N i18n = I18N.of(context);
     final AppTheme appTheme = ref.watch(themeProvider).requireValue.instance;
     final Locale appLocale = ref.watch(localeProvider).requireValue;
-    final GoRouter router = useMemoized(
-      () => GoRouter(
-        initialLocation: Routes.initial.location,
-        observers: <NavigatorObserver>[
-          SentryNavigatorObserver(setRouteNameAsTransaction: true),
-        ],
-        routes: <RouteBase>[
-          $onboarding00SplashRoute,
-          $onboarding01WelcomeRoute,
-        ],
-      ),
-    );
     return MixScope(
       colors: appTheme.colors,
       spaces: appTheme.spaces,
@@ -137,4 +161,10 @@ class RoutesApp extends HookConsumerWidget {
       ),
     );
   }
+
+  @override
+  void debugFillProperties(DiagnosticPropertiesBuilder properties) =>
+      super.debugFillProperties(
+        properties..add(DiagnosticsProperty<GoRouter>('router', router)),
+      );
 }

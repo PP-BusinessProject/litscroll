@@ -1,25 +1,31 @@
+import 'dart:typed_data';
+
 import 'package:dart_mappable/dart_mappable.dart';
 import 'package:dio/dio.dart';
 import 'package:retrofit/error_logger.dart';
-import 'package:retrofit/http.dart' hide Field;
+import 'package:retrofit/http.dart';
 
 part 'api.g.dart';
 part 'api.mapper.dart';
+part 'books.dart';
+part 'feed.dart';
+part 'genres.dart';
+part 'home.dart';
+part 'onboarding.dart';
+part 'quotes.dart';
+part 'reading.dart';
+part 'user_quotes.dart';
 
 @RestApi(parser: Parser.DartMappable)
-abstract class API {
+abstract class API
+    with
+        $Books,
+        $Feed,
+        $Genres,
+        $Home,
+        $Onboarding,
+        $Quotes,
+        $Reading,
+        $UserQuotes {
   factory API(Dio dio, {String? baseUrl}) = _API;
-
-  @GET('/tasks')
-  Future<List<Task>> getTasks();
-}
-
-@MappableClass()
-class Task with TaskMappable {
-  const Task({this.id, this.name, this.avatar, this.createdAt});
-
-  final String? id;
-  final String? name;
-  final String? avatar;
-  final String? createdAt;
 }
