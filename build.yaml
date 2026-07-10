@@ -55,7 +55,7 @@ targets:
             - lib/styles/**.dart
 
       slang_build_runner:
-        enabled: true
+        enabled: false
         options:
           base_locale: en-US
           class_name: I18N
@@ -68,8 +68,12 @@ targets:
           output_directory: lib/generated/
           output_file_name: i18n.g.dart
           param_case: camel
+          translation_class_visibility: public
           pluralization:
             auto: off
+
+      slang_build_runner:legacy:
+        enabled: true
 
       retrofit_generator:
         enabled: true

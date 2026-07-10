@@ -48,10 +48,10 @@ class OnboardingWelcomeScreen extends HookConsumerWidget {
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     final GoRouter router = GoRouter.of(context);
-    final I18NOnboardingA01WelcomeEnUs i18n = I18N
+    final I18N$onboarding$a00Splash$en_US i18n = I18N
         .of(context)
         .onboarding
-        .a01Welcome;
+        .a00Splash;
 
     return futuristicBackground(context).alignment(.center)(
       child:

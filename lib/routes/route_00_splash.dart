@@ -66,7 +66,7 @@ class SplashScreen extends HookConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final I18NOnboardingA00SplashEnUs i18n = I18N
+    final I18N$onboarding$a00Splash$en_US i18n = I18N
         .of(context)
         .onboarding
         .a00Splash;

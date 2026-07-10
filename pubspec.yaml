@@ -43,7 +43,7 @@ dependencies:
   portal_labs: 0.34.0
   rive: 0.14.7
   simple_shadow: 0.3.1
-  slang_flutter: &slang_version ^4.14.0
+  slang_flutter: &slang_version 4.18.0
 
   # Database / Authentication
   dart_mappable: &dart_mappable_version 4.8.0
