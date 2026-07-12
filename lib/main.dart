@@ -10,7 +10,6 @@ import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'package:http/http.dart';
 import 'package:rhttp/rhttp.dart';
-import 'package:rive/rive.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:sentry_dio/sentry_dio.dart';
 import 'package:sentry_flutter/sentry_flutter.dart';
@@ -130,7 +129,6 @@ Future<void> main() {
 
       Sentry.configureScope((Scope scope) => scope..level = SentryLevel.info);
       await Future.wait(<Future<Object?>>[
-        RiveNative.init(),
         Supabase.initialize(
           url: Config.supabaseUrl,
           anonKey: Config.supabaseAnonKey,

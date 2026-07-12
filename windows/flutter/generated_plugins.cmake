@@ -5,7 +5,6 @@
 list(APPEND FLUTTER_PLUGIN_LIST
   app_links
   permission_handler_windows
-  rive_native
   sentry_flutter
   url_launcher_windows
 )
