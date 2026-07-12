@@ -10,9 +10,9 @@ class Reader extends _$Reader {
 
   @override
   Future<BookQuote> build(int quoteId) async {
-    final BookQuote? cached = await _db.getQuoteById(quoteId);
+    final db.BookQuote? cached = await _db.getQuoteById(quoteId);
     if (cached != null) {
-      return cached;
+      return cached.toMappable();
     }
     final BookQuote remote = await _api.getQuote(quoteId);
     await _db.bookQuotes.insertOne(remote.toDatabase());

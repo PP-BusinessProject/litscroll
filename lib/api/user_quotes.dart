@@ -66,3 +66,22 @@ class $UpdateProgress with $UpdateProgressMappable {
 
   final int progress;
 }
+
+extension DBBookQuoteUser on BookQuoteUser {
+  db.BookQuoteUser toDatabase() => db.BookQuoteUser(
+    quoteId: quoteId,
+    progress: progress,
+    finishedAt: finishedAt,
+    likedAt: likedAt,
+  );
+}
+
+extension APIBookQuoteUser on db.BookQuoteUser {
+  BookQuoteUser toMappable() => BookQuoteUser(
+    userId: 0,
+    quoteId: quoteId,
+    progress: progress,
+    finishedAt: finishedAt,
+    likedAt: likedAt,
+  );
+}

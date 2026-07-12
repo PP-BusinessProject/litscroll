@@ -24,7 +24,7 @@ targets:
         enabled: true
         generate_for:
           include:
-            - lib/database/**.dart
+            - lib/database/database.dart
 
       enven:
         enabled: true

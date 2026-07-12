@@ -29,27 +29,3 @@ class BookQuotes extends Table {
   /// Paragraphs stored as JSON string
   TextColumn get paragraphs => text()();
 }
-
-extension DBBookQuote on api.BookQuote {
-  BookQuote toDatabase() => BookQuote(
-    id: id,
-    bookId: bookId,
-    likeCount: likeCount,
-    paragraphs: jsonEncode(paragraphs),
-  );
-}
-
-extension APIBookQuote on BookQuote {
-  api.BookQuote toMappable() => api.BookQuote(
-    id: id,
-    bookId: bookId,
-    likeCount: likeCount,
-    paragraphs: jsonDecode(paragraphs) as List<String>,
-  );
-}
-
-extension BookQuotesDatabase on Database {
-  Future<api.BookQuote?> getQuoteById(int id) => (select(
-    bookQuotes,
-  )..where(($BookQuotesTable quote) => quote.id.equals(id))).getSingleOrNull();
-}

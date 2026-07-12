@@ -68,3 +68,28 @@ class Book with BookMappable {
 
   final List<Genre> genres;
 }
+
+extension DBBook on Book {
+  db.Book toDatabase() => db.Book(
+    id: id,
+    title: title,
+    description: description,
+    authorName: authorName,
+    year: year,
+    pageCount: pageCount,
+    image: image,
+  );
+}
+
+extension APIBook on db.Book {
+  Book toMappable() => Book(
+    id: id,
+    title: title,
+    description: description,
+    authorName: authorName,
+    year: year,
+    pageCount: pageCount,
+    image: image,
+    genres: <Genre>[],
+  );
+}

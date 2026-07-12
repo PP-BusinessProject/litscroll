@@ -7,9 +7,9 @@ class Books extends _$Books {
 
   @override
   Future<List<Book>> build() async {
-    final List<Book> cached = await _db.books.all().get();
+    final List<db.Book> cached = await _db.books.all().get();
     if (cached.isNotEmpty) {
-      return cached;
+      return cached.map((db.Book book) => book.toMappable()).toList();
     }
 
     final PaginatedBookResponse remote = await _api.getBooks();

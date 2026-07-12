@@ -29,21 +29,3 @@ class BookQuoteUsers extends Table {
   /// Finished timestamp
   DateTimeColumn get likedAt => dateTime().named('finished_at').nullable()();
 }
-
-extension DBBookQuoteUser on api.BookQuoteUser {
-  BookQuoteUser toDatabase() => BookQuoteUser(
-    quoteId: quoteId,
-    progress: progress,
-    finishedAt: finishedAt,
-    likedAt: likedAt,
-  );
-}
-
-// extension APIBookQuoteUser on BookQuoteUser {
-//   api.BookQuoteUser toMappable() => api.BookQuoteUser(
-//     quoteId: quoteId,
-//     progress: progress,
-//     finishedAt: finishedAt,
-//     likedAt: likedAt,
-//   );
-// }

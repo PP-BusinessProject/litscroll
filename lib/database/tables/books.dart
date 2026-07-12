@@ -40,28 +40,3 @@ class Books extends Table {
   /// Cover image (binary)
   BlobColumn get image => blob().nullable()();
 }
-
-extension DBBook on api.Book {
-  Book toDatabase() => Book(
-    id: id,
-    title: title,
-    description: description,
-    authorName: authorName,
-    year: year,
-    pageCount: pageCount,
-    image: image,
-  );
-}
-
-extension APIBook on Book {
-  api.Book toMappable() => api.Book(
-    id: id,
-    title: title,
-    description: description,
-    authorName: authorName,
-    year: year,
-    pageCount: pageCount,
-    image: image,
-    genres: <api.Genre>[],
-  );
-}

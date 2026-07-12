@@ -46,3 +46,28 @@ class UserSuggestedQuote with UserSuggestedQuoteMappable {
 
   final double score;
 }
+
+extension DBBookQuote on BookQuote {
+  db.BookQuote toDatabase() => db.BookQuote(
+    id: id,
+    bookId: bookId,
+    likeCount: likeCount,
+    paragraphs: jsonEncode(paragraphs),
+  );
+}
+
+extension APIBookQuote on db.BookQuote {
+  BookQuote toMappable() => BookQuote(
+    id: id,
+    bookId: bookId,
+    likeCount: likeCount,
+    paragraphs: jsonDecode(paragraphs) as List<String>,
+  );
+}
+
+extension BookQuotesDatabase on db.Database {
+  Future<db.BookQuote?> getQuoteById(int id) =>
+      (select(bookQuotes)
+            ..where((db.$BookQuotesTable quote) => quote.id.equals(id)))
+          .getSingleOrNull();
+}
