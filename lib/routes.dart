@@ -75,8 +75,7 @@ enum Routes<Extra extends Object?> {
   String get location => route.location;
 
   /// The wrapper method on [GoRouter.go].
-  void go(GoRouter router, {Extra? extra}) =>
-      router.go(location, extra: extra);
+  void go(GoRouter router, {Extra? extra}) => router.go(location, extra: extra);
 
   /// The wrapper method on [GoRouter.push].
   Future<T?> push<T extends Object?>(GoRouter router, {Extra? extra}) =>

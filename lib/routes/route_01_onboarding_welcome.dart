@@ -94,14 +94,7 @@ class OnboardingWelcomeScreen extends HookConsumerWidget {
               BoxStyler().height($Spaces.xl())(child: const SizedBox.shrink()),
               PressableBox(
                 style: glassButtonStyle(context),
-                onPress: () async {
-                  final Routes<Object?> route = await Routes.current(
-                    ref.container,
-                  );
-                  Routes.splash.go(router);
-                  await Future<void>.delayed(const Duration(seconds: 3));
-                  await route.pushReplacement(router);
-                },
+                onPress: () => Routes.onboardingInformation.go(router),
                 child: TextStyler()
                     .fontSize(16)
                     .fontWeight(FontWeight.w600)

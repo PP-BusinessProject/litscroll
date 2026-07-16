@@ -3,3 +3,14 @@ app_name: LitScroll
 onboarding:
   a00_splash:
     key: value
+  a02_onboarding_information:
+    app_name: "QuoteScroll"
+    subtitle: "Discover how reading feels reimagined"
+    card1_title: "Read Immersive Passages"
+    card1_description: "Experience literature in 1-2 page passages designed for focused reading. Swipe vertically through beautifully formatted excerpts – each one a complete moment from great books."
+    card2_title: "Personalized For You"
+    card2_description: "Browse categories tailored to your taste – viewed recently, recommendations, random discoveries, and trending popular passages all in one elegant feed."
+    card3_title: "Save & Collect"
+    card3_description: "Engage with passages socially – tap to save, build your personal library, and see what resonates with readers worldwide."
+    begin_reading: "Begin Reading"
+    back_to_welcome: "Back to Welcome"

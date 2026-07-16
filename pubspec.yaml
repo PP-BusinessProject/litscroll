@@ -131,6 +131,7 @@ flutter:
     - source/assets/onboarding/
     - source/assets/onboarding/00_splash/
     - source/assets/onboarding/01_welcome/
+    - source/assets/route_02/
 
   fonts:
     - family: Gotham Pro
