@@ -1,0 +1,10 @@
+﻿FOUND SCREEN 2 ROOT FRAME: Frame (275:2028)
+* [FRAME] Frame (ID: 275:2028) [360.0x923.0px @ x:1178.0, y:128.0]
+   |- Fill Color: #FFFFFF (Opacity: )
+  * [GROUP] Page-1 (ID: 275:2029) [360.0x923.0px @ x:1178.0, y:128.0]
+    * [GROUP] Clip path group (ID: 275:2030) [360.0x923.0px @ x:1178.0, y:128.0]
+      * [GROUP] 1483417757480 (ID: 275:2031) [360.0x923.0px @ x:1178.0, y:128.0]
+        * [VECTOR] Vector (ID: 275:2032) [360.0x923.0px @ x:1178.0, y:128.0]
+           |- Fill Color: #000000 (Opacity: )
+      * [VECTOR] Vector (ID: 275:2033) [360.0x923.0px @ x:1178.0, y:128.0]
+         |- Fill Color: #0A0F1E (Opacity: )

@@ -102,7 +102,7 @@ BoxStyler neonGlassStyle(BuildContext context) => BoxStyler()
     .padding(.all($Spaces.lg()))
     .shadow(
       .color(
-        $GlassColors.neonBlue(),
+        $GlassColors.neonBlue.resolve(context).withValues(alpha: 0.70),
       ).blurRadius($BlurRadius.large()).offset(x: 0, y: 0),
     )
     .clipBehavior(Clip.antiAlias);
@@ -144,11 +144,13 @@ BoxStyler floatingPanelStyle(BuildContext context) => BoxStyler()
 
 /// Base glass button style without interaction states.
 ///
-/// Uses `$GlassColors.primary` as the button fill, rounded via `$Radius.medium()`,
-/// with `$Spaces.lg()` horizontal and `$Spaces.md()` vertical padding.
+/// Uses `$GlassColors.primary` as the button fill, rounded via
+/// `$Radius.medium()`, with `$Spaces.lg()` horizontal and `$Spaces.md()`
+/// vertical padding.
 ///
 /// Hovered state scales up (1.03×) and adds a neon-blue inner glow shadow.
-/// Pressed state scales down (0.97×). All transitions use a 180 ms ease-out curve.
+/// Pressed state scales down (0.97×). All transitions use a 180 ms ease-out
+/// curve.
 ///
 /// Intended for use with [Pressable] or [PressableBox].
 ///
@@ -186,6 +188,7 @@ BoxStyler glassButtonStyle(BuildContext context) => BoxStyler()
     .onPressed(BoxStyler().color($GlassColors.primary()).scale(0.97))
     .animate(.easeOut(const Duration(milliseconds: 180)));
 
+/// Reusable icon button glass style with hover scale effect.
 BoxStyler glassIconButtonStyle(BuildContext context) => BoxStyler()
     .color($GlassColors.primary())
     .borderRadius(.all($Radius.medium()))
@@ -229,7 +232,8 @@ BoxStyler onboardingBadgeStyle(BuildContext context) => BoxStyler()
       ).blurRadius($BlurRadius.small()).offset(x: 0, y: 2),
     );
 
-/// Reusable primary CTA button style for onboarding actions with interactive states.
+/// Reusable primary CTA button style for onboarding actions with interactive
+/// states.
 BoxStyler onboardingPrimaryButtonStyle(BuildContext context) => BoxStyler()
     .color($GlassColors.neonPurple.resolve(context))
     .borderRadius(.all($Radius.medium()))
@@ -238,7 +242,7 @@ BoxStyler onboardingPrimaryButtonStyle(BuildContext context) => BoxStyler()
     .alignment(.center)
     .shadow(
       .color(
-        $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.35),
+        $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.245),
       ).blurRadius($BlurRadius.medium()).offset(x: 0, y: 8),
     )
     .onHovered(
@@ -246,10 +250,11 @@ BoxStyler onboardingPrimaryButtonStyle(BuildContext context) => BoxStyler()
           .scale(1.03)
           .shadow(
             .color(
-              $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.6),
+              $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.42),
             ).blurRadius($BlurRadius.large()).offset(x: 0, y: 12),
           ),
     )
     .onPressed(BoxStyler().scale(0.97))
     .animate(.easeOut(const Duration(milliseconds: 180)));
+
 

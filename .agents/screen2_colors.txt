@@ -1,0 +1,10 @@
+﻿=== SCREEN 2 (ID 275:2028) COMPLETE COLOR PALETTE ===
+* [FRAME] 'Frame' (id: 275:2028) [360x923px @ x:1178,y:128]
+   |- Fill Color: 
+  * [GROUP] 'Page-1' (id: 275:2029) [360x923px @ x:1178,y:128]
+    * [GROUP] 'Clip path group' (id: 275:2030) [360x923px @ x:1178,y:128]
+      * [GROUP] '1483417757480' (id: 275:2031) [360x923px @ x:1178,y:128]
+        * [VECTOR] 'Vector' (id: 275:2032) [360x923px @ x:1178,y:128]
+           |- Fill Color: 
+      * [VECTOR] 'Vector' (id: 275:2033) [360x923px @ x:1178,y:128]
+         |- Fill Color: 

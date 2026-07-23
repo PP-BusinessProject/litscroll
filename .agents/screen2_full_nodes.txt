@@ -1,0 +1,287 @@
+﻿=== SCREEN 2 ALL ELEMENTS AND COLORS ===
+* [GROUP] Group (ID: 275:2026) [360.0x923.0px @ x:1178.0, y:128.0]
+  * [GROUP] Group (ID: 275:2027) [360.0x923.0px @ x:1178.0, y:128.0]
+    * [FRAME] Frame (ID: 275:2028) [360.0x923.0px @ x:1178.0, y:128.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2029) [360.0x923.0px @ x:1178.0, y:128.0]
+        * [GROUP] Clip path group (ID: 275:2030) [360.0x923.0px @ x:1178.0, y:128.0]
+          * [GROUP] 1483417757480 (ID: 275:2031) [360.0x923.0px @ x:1178.0, y:128.0]
+            * [VECTOR] Vector (ID: 275:2032) [360.0x923.0px @ x:1178.0, y:128.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2033) [360.0x923.0px @ x:1178.0, y:128.0]
+             |- Fill Color: #0A0F1E (Opacity: )
+* [GROUP] Group (ID: 275:2034) [27.0x27.0px @ x:1285.0, y:170.5]
+  * [RECTANGLE] Rectangle (ID: 275:2035) [27.0x27.0px @ x:1285.0, y:170.5]
+* [GROUP] Group (ID: 275:2036) [117.1x28.6px @ x:1318.0, y:172.0]
+  * [GROUP] Group (ID: 275:2037) [117.1x28.6px @ x:1318.0, y:172.0]
+    * [FRAME] Frame (ID: 275:2038) [117.1x28.6px @ x:1318.0, y:172.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2039) [117.1x28.6px @ x:1318.0, y:172.0]
+        * [GROUP] Clip path group (ID: 275:2040) [117.1x28.6px @ x:1318.0, y:172.0]
+          * [GROUP] 164319079425 (ID: 275:2041) [117.1x28.6px @ x:1318.0, y:172.0]
+            * [VECTOR] Vector (ID: 275:2042) [117.1x28.6px @ x:1318.0, y:172.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2043) [117.1x28.6px @ x:1318.0, y:172.0]
+  * [GROUP] Group (ID: 275:2044) [81.0x24.0px @ x:1318.0, y:172.0]
+    * [GROUP] Group (ID: 275:2045) [81.0x24.0px @ x:1318.0, y:172.0]
+      * [TEXT] LitScroll (ID: 275:2046) [81.0x24.0px @ x:1318.0, y:172.0]
+         |- Fill Color: #FFFFFF (Opacity: )
+         |- Text: LitScroll
+         |- Style: Inter 700 20.0px, Color: #FFFFFF
+* [GROUP] Group (ID: 275:2047) [256.2x20.0px @ x:1230.0, y:231.5]
+  * [GROUP] Group (ID: 275:2048) [256.0x20.0px @ x:1230.0, y:231.5]
+    * [FRAME] Frame (ID: 275:2049) [256.0x20.0px @ x:1230.0, y:231.5]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2050) [256.0x20.0px @ x:1230.0, y:231.5]
+        * [GROUP] Clip path group (ID: 275:2051) [256.0x20.0px @ x:1230.0, y:231.5]
+          * [GROUP] 349676079892 (ID: 275:2052) [256.0x20.0px @ x:1230.0, y:231.5]
+            * [VECTOR] Vector (ID: 275:2053) [256.0x20.0px @ x:1230.0, y:231.5]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2054) [256.0x20.0px @ x:1230.0, y:231.5]
+  * [GROUP] Group (ID: 275:2055) [256.0x17.0px @ x:1230.2, y:231.5]
+    * [GROUP] Group (ID: 275:2056) [256.0x17.0px @ x:1230.2, y:231.5]
+      * [TEXT] Discover how reading feels reimagined (ID: 275:2057) [256.0x17.0px @ x:1230.2, y:231.5]
+         |- Fill Color: #A78BFA (Opacity: )
+         |- Text: Discover how reading feels reimagined
+         |- Style: Inter 400 14.0px, Color: #A78BFA
+* [GROUP] Group (ID: 275:2058) [312.0x208.0px @ x:1202.0, y:284.0]
+  * [GROUP] Group (ID: 275:2059) [312.0x208.0px @ x:1202.0, y:284.0]
+    * [FRAME] Frame (ID: 275:2060) [312.0x208.0px @ x:1202.0, y:284.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2061) [312.0x208.0px @ x:1202.0, y:284.0]
+        * [GROUP] Clip path group (ID: 275:2062) [312.0x208.0px @ x:1202.0, y:284.0]
+          * [GROUP] 1731908087995 (ID: 275:2063) [312.0x208.0px @ x:1202.0, y:284.0]
+            * [VECTOR] Vector (ID: 275:2064) [312.0x208.0px @ x:1202.0, y:284.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2065) [312.0x208.0px @ x:1202.0, y:284.0]
+             |- Fill Color: #7C3AED (Opacity: 0.079999998211860657)
+             |- Border Color: #7C3AED (Weight: 2.0px)
+* [GROUP] Group (ID: 275:2066) [40.0x40.0px @ x:1223.0, y:305.0]
+  * [GROUP] Group (ID: 275:2067) [40.0x40.0px @ x:1223.0, y:305.0]
+    * [FRAME] Frame (ID: 275:2068) [40.0x40.0px @ x:1223.0, y:305.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2069) [40.0x40.0px @ x:1223.0, y:305.0]
+        * [GROUP] Clip path group (ID: 275:2070) [40.0x40.0px @ x:1223.0, y:305.0]
+          * [GROUP] 953010683215 (ID: 275:2071) [40.0x40.0px @ x:1223.0, y:305.0]
+            * [VECTOR] Vector (ID: 275:2072) [40.0x40.0px @ x:1223.0, y:305.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2073) [40.0x40.0px @ x:1223.0, y:305.0]
+             |- Fill Color: #7C3AED (Opacity: 0.15000000596046448)
+* [GROUP] Group (ID: 275:2074) [23.0x23.0px @ x:1231.0, y:313.5]
+  * [RECTANGLE] Rectangle (ID: 275:2075) [23.0x23.0px @ x:1231.0, y:313.5]
+* [GROUP] Group (ID: 275:2076) [208.0x22.9px @ x:1275.0, y:313.6]
+  * [GROUP] Group (ID: 275:2077) [208.0x22.9px @ x:1275.0, y:313.6]
+    * [FRAME] Frame (ID: 275:2078) [208.0x22.9px @ x:1275.0, y:313.6]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2079) [208.0x22.9px @ x:1275.0, y:313.6]
+        * [GROUP] Clip path group (ID: 275:2080) [208.0x22.9px @ x:1275.0, y:313.6]
+          * [GROUP] 597367285082 (ID: 275:2081) [208.0x22.9px @ x:1275.0, y:313.6]
+            * [VECTOR] Vector (ID: 275:2082) [208.0x22.9px @ x:1275.0, y:313.6]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2083) [208.0x22.9px @ x:1275.0, y:313.6]
+  * [GROUP] Group (ID: 275:2084) [204.0x19.0px @ x:1275.0, y:313.6]
+    * [GROUP] Group (ID: 275:2085) [204.0x19.0px @ x:1275.0, y:313.6]
+      * [TEXT] Read Immersive Passages (ID: 275:2086) [204.0x19.0px @ x:1275.0, y:313.6]
+         |- Fill Color: #FFFFFF (Opacity: )
+         |- Text: Read Immersive Passages
+         |- Style: Inter 700 16.0px, Color: #FFFFFF
+* [GROUP] Group (ID: 275:2087) [270.0x114.0px @ x:1223.0, y:357.0]
+  * [GROUP] Group (ID: 275:2088) [270.0x114.0px @ x:1223.0, y:357.0]
+    * [FRAME] Frame (ID: 275:2089) [270.0x114.0px @ x:1223.0, y:357.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2090) [270.0x114.0px @ x:1223.0, y:357.0]
+        * [GROUP] Clip path group (ID: 275:2091) [270.0x114.0px @ x:1223.0, y:357.0]
+          * [GROUP] 1099550178026 (ID: 275:2092) [270.0x114.0px @ x:1223.0, y:357.0]
+            * [VECTOR] Vector (ID: 275:2093) [270.0x114.0px @ x:1223.0, y:357.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2094) [270.0x114.0px @ x:1223.0, y:357.0]
+  * [GROUP] Group (ID: 275:2095) [269.0x97.0px @ x:1223.0, y:357.0]
+    * [GROUP] Group (ID: 275:2096) [269.0x97.0px @ x:1223.0, y:357.0]
+      * [TEXT] Experience literature in 1-2 pageВ  (ID: 275:2097) [218.0x17.0px @ x:1223.0, y:357.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: Experience literature in 1-2 pageВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] passages designed for focused reading.В  (ID: 275:2098) [269.0x17.0px @ x:1223.0, y:377.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: passages designed for focused reading.В 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] Swipe vertically through beautifullyВ  (ID: 275:2099) [237.0x17.0px @ x:1223.0, y:397.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: Swipe vertically through beautifullyВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] formatted excerpts вЂ” each one aВ  (ID: 275:2100) [225.0x17.0px @ x:1223.0, y:417.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: formatted excerpts вЂ” each one aВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] complete moment from great books. (ID: 275:2101) [241.0x17.0px @ x:1223.0, y:437.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: complete moment from great books.
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+* [GROUP] Group (ID: 275:2102) [312.0x185.0px @ x:1202.0, y:511.0]
+  * [GROUP] Group (ID: 275:2103) [312.0x185.0px @ x:1202.0, y:511.0]
+    * [FRAME] Frame (ID: 275:2104) [312.0x185.0px @ x:1202.0, y:511.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2105) [312.0x185.0px @ x:1202.0, y:511.0]
+        * [GROUP] Clip path group (ID: 275:2106) [312.0x185.0px @ x:1202.0, y:511.0]
+          * [GROUP] 499465111233 (ID: 275:2107) [312.0x185.0px @ x:1202.0, y:511.0]
+            * [VECTOR] Vector (ID: 275:2108) [312.0x185.0px @ x:1202.0, y:511.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2109) [312.0x185.0px @ x:1202.0, y:511.0]
+             |- Fill Color: #3B82F6 (Opacity: 0.079999998211860657)
+             |- Border Color: #3B82F6 (Weight: 2.0px)
+* [GROUP] Group (ID: 275:2110) [40.0x40.0px @ x:1223.0, y:532.0]
+  * [GROUP] Group (ID: 275:2111) [40.0x40.0px @ x:1223.0, y:532.0]
+    * [FRAME] Frame (ID: 275:2112) [40.0x40.0px @ x:1223.0, y:532.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2113) [40.0x40.0px @ x:1223.0, y:532.0]
+        * [GROUP] Clip path group (ID: 275:2114) [40.0x40.0px @ x:1223.0, y:532.0]
+          * [GROUP] 806167624906 (ID: 275:2115) [40.0x40.0px @ x:1223.0, y:532.0]
+            * [VECTOR] Vector (ID: 275:2116) [40.0x40.0px @ x:1223.0, y:532.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2117) [40.0x40.0px @ x:1223.0, y:532.0]
+             |- Fill Color: #3B82F6 (Opacity: 0.15000000596046448)
+* [GROUP] Group (ID: 275:2118) [18.0x18.0px @ x:1234.0, y:543.0]
+  * [RECTANGLE] Rectangle (ID: 275:2119) [18.0x18.0px @ x:1234.0, y:543.0]
+* [GROUP] Group (ID: 275:2120) [166.9x22.9px @ x:1275.0, y:540.6]
+  * [GROUP] Group (ID: 275:2121) [166.9x22.9px @ x:1275.0, y:540.6]
+    * [FRAME] Frame (ID: 275:2122) [166.9x22.9px @ x:1275.0, y:540.6]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2123) [166.9x22.9px @ x:1275.0, y:540.6]
+        * [GROUP] Clip path group (ID: 275:2124) [166.9x22.9px @ x:1275.0, y:540.6]
+          * [GROUP] 1197124088380 (ID: 275:2125) [166.9x22.9px @ x:1275.0, y:540.6]
+            * [VECTOR] Vector (ID: 275:2126) [166.9x22.9px @ x:1275.0, y:540.6]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2127) [166.9x22.9px @ x:1275.0, y:540.6]
+  * [GROUP] Group (ID: 275:2128) [164.0x19.0px @ x:1275.0, y:540.6]
+    * [GROUP] Group (ID: 275:2129) [164.0x19.0px @ x:1275.0, y:540.6]
+      * [TEXT] Personalized For You (ID: 275:2130) [164.0x19.0px @ x:1275.0, y:540.6]
+         |- Fill Color: #FFFFFF (Opacity: )
+         |- Text: Personalized For You
+         |- Style: Inter 700 16.0px, Color: #FFFFFF
+* [GROUP] Group (ID: 275:2131) [271.0x80.0px @ x:1223.0, y:584.0]
+  * [GROUP] Group (ID: 275:2132) [270.0x80.0px @ x:1223.0, y:584.0]
+    * [FRAME] Frame (ID: 275:2133) [270.0x80.0px @ x:1223.0, y:584.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2134) [270.0x80.0px @ x:1223.0, y:584.0]
+        * [GROUP] Clip path group (ID: 275:2135) [270.0x80.0px @ x:1223.0, y:584.0]
+          * [GROUP] 144446080872 (ID: 275:2136) [270.0x80.0px @ x:1223.0, y:584.0]
+            * [VECTOR] Vector (ID: 275:2137) [270.0x80.0px @ x:1223.0, y:584.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2138) [270.0x80.0px @ x:1223.0, y:584.0]
+  * [GROUP] Group (ID: 275:2139) [271.0x77.0px @ x:1223.0, y:584.0]
+    * [GROUP] Group (ID: 275:2140) [271.0x77.0px @ x:1223.0, y:584.0]
+      * [TEXT] Browse categories tailored to your tasteВ  (ID: 275:2141) [269.0x17.0px @ x:1223.0, y:584.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: Browse categories tailored to your tasteВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] вЂ” viewed recently, recommendations,В  (ID: 275:2142) [257.0x17.0px @ x:1223.0, y:604.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: вЂ” viewed recently, recommendations,В 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] random discoveries, and trendingВ  (ID: 275:2143) [225.0x17.0px @ x:1223.0, y:624.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: random discoveries, and trendingВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] popular passages all in one elegant feed. (ID: 275:2144) [271.0x17.0px @ x:1223.0, y:644.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: popular passages all in one elegant feed.
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+* [GROUP] Group (ID: 275:2145) [312.0x163.0px @ x:1202.0, y:716.0]
+  * [GROUP] Group (ID: 275:2146) [312.0x163.0px @ x:1202.0, y:716.0]
+    * [FRAME] Frame (ID: 275:2147) [312.0x163.0px @ x:1202.0, y:716.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2148) [312.0x163.0px @ x:1202.0, y:716.0]
+        * [GROUP] Clip path group (ID: 275:2149) [312.0x163.0px @ x:1202.0, y:716.0]
+          * [GROUP] 660421311601 (ID: 275:2150) [312.0x163.0px @ x:1202.0, y:716.0]
+            * [VECTOR] Vector (ID: 275:2151) [312.0x163.0px @ x:1202.0, y:716.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2152) [312.0x163.0px @ x:1202.0, y:716.0]
+             |- Fill Color: #EC4899 (Opacity: 0.079999998211860657)
+             |- Border Color: #EC4899 (Weight: 2.0px)
+* [GROUP] Group (ID: 275:2153) [40.0x40.0px @ x:1223.0, y:737.0]
+  * [GROUP] Group (ID: 275:2154) [40.0x40.0px @ x:1223.0, y:737.0]
+    * [FRAME] Frame (ID: 275:2155) [40.0x40.0px @ x:1223.0, y:737.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2156) [40.0x40.0px @ x:1223.0, y:737.0]
+        * [GROUP] Clip path group (ID: 275:2157) [40.0x40.0px @ x:1223.0, y:737.0]
+          * [GROUP] 391190571266 (ID: 275:2158) [40.0x40.0px @ x:1223.0, y:737.0]
+            * [VECTOR] Vector (ID: 275:2159) [40.0x40.0px @ x:1223.0, y:737.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2160) [40.0x40.0px @ x:1223.0, y:737.0]
+             |- Fill Color: #EC4899 (Opacity: 0.15000000596046448)
+* [GROUP] Group (ID: 275:2161) [18.0x18.0px @ x:1234.0, y:748.0]
+  * [RECTANGLE] Rectangle (ID: 275:2162) [18.0x18.0px @ x:1234.0, y:748.0]
+* [GROUP] Group (ID: 275:2163) [113.1x22.9px @ x:1274.4, y:745.6]
+  * [GROUP] Group (ID: 275:2164) [113.1x22.9px @ x:1274.4, y:745.6]
+    * [FRAME] Frame (ID: 275:2165) [113.1x22.9px @ x:1274.4, y:745.6]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2166) [113.1x22.9px @ x:1274.4, y:745.6]
+        * [GROUP] Clip path group (ID: 275:2167) [113.1x22.9px @ x:1274.4, y:745.6]
+          * [GROUP] 283850035457 (ID: 275:2168) [113.1x22.9px @ x:1274.4, y:745.6]
+            * [VECTOR] Vector (ID: 275:2169) [113.1x22.9px @ x:1274.4, y:745.6]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2170) [113.1x22.9px @ x:1274.4, y:745.6]
+  * [GROUP] Group (ID: 275:2171) [113.0x19.0px @ x:1274.4, y:745.6]
+    * [GROUP] Group (ID: 275:2172) [113.0x19.0px @ x:1274.4, y:745.6]
+      * [TEXT] Save & Collect (ID: 275:2173) [113.0x19.0px @ x:1274.4, y:745.6]
+         |- Fill Color: #FFFFFF (Opacity: )
+         |- Text: Save & Collect
+         |- Style: Inter 700 16.0px, Color: #FFFFFF
+* [GROUP] Group (ID: 275:2174) [274.0x69.0px @ x:1223.0, y:789.0]
+  * [GROUP] Group (ID: 275:2175) [270.0x69.0px @ x:1223.0, y:789.0]
+    * [FRAME] Frame (ID: 275:2176) [270.0x69.0px @ x:1223.0, y:789.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2177) [270.0x69.0px @ x:1223.0, y:789.0]
+        * [GROUP] Clip path group (ID: 275:2178) [270.0x69.0px @ x:1223.0, y:789.0]
+          * [GROUP] 1724985187303 (ID: 275:2179) [270.0x69.0px @ x:1223.0, y:789.0]
+            * [VECTOR] Vector (ID: 275:2180) [270.0x69.0px @ x:1223.0, y:789.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2181) [270.0x69.0px @ x:1223.0, y:789.0]
+  * [GROUP] Group (ID: 275:2182) [274.0x57.0px @ x:1223.0, y:789.0]
+    * [GROUP] Group (ID: 275:2183) [274.0x57.0px @ x:1223.0, y:789.0]
+      * [TEXT] Engage with passages socially вЂ” tap toВ  (ID: 275:2184) [267.0x17.0px @ x:1223.0, y:789.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: Engage with passages socially вЂ” tap toВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] save, build your personal library, and seeВ  (ID: 275:2185) [274.0x17.0px @ x:1223.0, y:809.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: save, build your personal library, and seeВ 
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+      * [TEXT] what resonates with readers worldwide. (ID: 275:2186) [265.0x17.0px @ x:1223.0, y:829.0]
+         |- Fill Color: #94A3B8 (Opacity: )
+         |- Text: what resonates with readers worldwide.
+         |- Style: Inter 400 14.0px, Color: #94A3B8
+* [GROUP] Group (ID: 275:2187) [312.0x56.0px @ x:1202.0, y:919.0]
+  * [GROUP] Group (ID: 275:2188) [312.0x56.0px @ x:1202.0, y:919.0]
+    * [FRAME] Frame (ID: 275:2189) [312.0x56.0px @ x:1202.0, y:919.0]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2190) [312.0x56.0px @ x:1202.0, y:919.0]
+        * [GROUP] Clip path group (ID: 275:2191) [312.0x56.0px @ x:1202.0, y:919.0]
+          * [GROUP] 747185490466 (ID: 275:2192) [312.0x56.0px @ x:1202.0, y:919.0]
+            * [VECTOR] Vector (ID: 275:2193) [312.0x56.0px @ x:1202.0, y:919.0]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2194) [312.0x56.0px @ x:1202.0, y:919.0]
+             |- Fill Color: #7C3AED (Opacity: )
+      * [FRAME] Frame 1 (ID: 324:2) [100.0x100.0px @ x:1181.0, y:900.0]
+  * [GROUP] Group (ID: 275:2195) [113.0x19.0px @ x:1300.7, y:936.0]
+    * [GROUP] Group (ID: 275:2196) [113.0x19.0px @ x:1300.7, y:936.0]
+      * [TEXT] Begin Reading (ID: 275:2197) [113.0x19.0px @ x:1300.7, y:936.0]
+         |- Fill Color: #FFFFFF (Opacity: )
+         |- Text: Begin Reading
+         |- Style: Inter 700 16.0px, Color: #FFFFFF
+* [GROUP] Group (ID: 275:2198) [115.0x20.0px @ x:1301.0, y:990.5]
+  * [GROUP] Group (ID: 275:2199) [113.0x20.0px @ x:1301.0, y:990.5]
+    * [FRAME] Frame (ID: 275:2200) [113.0x20.0px @ x:1301.0, y:990.5]
+       |- Fill Color: #FFFFFF (Opacity: )
+      * [GROUP] Page-1 (ID: 275:2201) [113.0x20.0px @ x:1301.0, y:990.5]
+        * [GROUP] Clip path group (ID: 275:2202) [113.0x20.0px @ x:1301.0, y:990.5]
+          * [GROUP] 326964498237 (ID: 275:2203) [113.0x20.0px @ x:1301.0, y:990.5]
+            * [VECTOR] Vector (ID: 275:2204) [113.0x20.0px @ x:1301.0, y:990.5]
+               |- Fill Color: #000000 (Opacity: )
+          * [VECTOR] Vector (ID: 275:2205) [113.0x20.0px @ x:1301.0, y:990.5]
+  * [GROUP] Group (ID: 275:2206) [115.0x17.0px @ x:1301.0, y:990.5]
+    * [GROUP] Group (ID: 275:2207) [115.0x17.0px @ x:1301.0, y:990.5]
+      * [TEXT] Back to Welcome (ID: 275:2208) [115.0x17.0px @ x:1301.0, y:990.5]
+         |- Fill Color: #64748B (Opacity: )
+         |- Text: Back to Welcome
+         |- Style: Inter 400 14.0px, Color: #64748B

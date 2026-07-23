@@ -1,0 +1,1384 @@
+﻿Found Text Node ID: 275:2057
+=== SCREEN 2 COMPLETE COLOR PALETTE ===
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame
+FILL: #F2F2F2 | Element: svg-board-background-color (VECTOR) | Path: Root > Document > LitScroll > Frame > svg-board-background-color
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 933600311670 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1738333722861 > Vector
+FILL: #1A2240 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #2A3A6A (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 847144361808 > Vector
+FILL: #E8ECFF | Element: LitScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > LitScroll
+TEXT: 'LitScroll' | Color: #E8ECFF | Size: 20.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 937009823729 > Vector
+FILL: #5A7ABF | Element: Swipe to explore (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Swipe to explore
+TEXT: 'Swipe to explore' | Color: #5A7ABF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 718832109987 > Vector
+FILL: #E8ECFF | Element: Discover Literature in (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Discover Literature in
+TEXT: 'Discover Literature in' | Color: #E8ECFF | Size: 24.0px 700
+FILL: #E8ECFF | Element: Immersive Passages (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Immersive Passages
+TEXT: 'Immersive Passages' | Color: #E8ECFF | Size: 24.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 743169613770 > Vector
+FILL: #7B9AFF | Element: Scroll through beautifully formatted bookВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Scroll through beautifully formatted bookВ 
+TEXT: 'Scroll through beautifully formatted bookВ ' | Color: #7B9AFF | Size: 14.0px 400
+FILL: #7B9AFF | Element: passages like short-вЂ‹form content. EachВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > passages like short-вЂ‹form content. EachВ 
+TEXT: 'passages like short-вЂ‹form content. EachВ ' | Color: #7B9AFF | Size: 14.0px 400
+FILL: #7B9AFF | Element: passage is 1-2 pages of immersive reading. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > passage is 1-2 pages of immersive reading.
+TEXT: 'passage is 1-2 pages of immersive reading.' | Color: #7B9AFF | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1179997341509 > Vector
+FILL: #4A6ABF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Start Reading (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Start Reading
+TEXT: 'Start Reading' | Color: #FFFFFF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 189906751832 > Vector
+FILL: #3A5090 | Element: Curated passages from timeless literature (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Curated passages from timeless literature
+TEXT: 'Curated passages from timeless literature' | Color: #3A5090 | Size: 12.0px 400
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Page-1 > Clip path group > 1409918751444 > Vector
+FILL: #1E2F6A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 930256309449 > Vector
+FILL: #151D38 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #2A3A6A (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 218118095666 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1598992325353 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1551360760370 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1455569803539 > Vector
+FILL: #2A3A6A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 607622209967 > Vector
+FILL: #151D38 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #2A3A6A (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1557299659041 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 606774002103 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1696428873114 > Vector
+FILL: #3A4A7A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 531062411558 > Vector
+FILL: #2A3A6A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1739147947331 > Vector
+FILL: #1A2548 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #3A5090 (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1125512059876 > Vector
+FILL: #2A4080 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #4A6ABF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 443690427828 > Vector
+FILL: #4A6ABF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 989702084970 > Vector
+FILL: #3A5090 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1026990762764 > Vector
+FILL: #3A5090 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1003330413021 > Vector
+FILL: #3A5090 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1312422644736 > Vector
+FILL: #2A3A6A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > 1058338517447 > Vector
+FILL: #2A3A6A | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group 1 > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1272248827661 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1029223695742 > Vector
+FILL: #FFFFFF | Element: QuoteScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > QuoteScroll
+TEXT: 'QuoteScroll' | Color: #FFFFFF | Size: 18.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 975109806169 > Vector
+FILL: #FFFFFF | Element: Saved Passages (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved Passages
+TEXT: 'Saved Passages' | Color: #FFFFFF | Size: 20.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1182859018823 > Vector
+FILL: #A0AEC0 | Element: 24 saved passages (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > 24 saved passages
+TEXT: '24 saved passages' | Color: #A0AEC0 | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1240598710587 > Vector
+FILL: #A78BFA | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1665609542462 > Vector
+FILL: #E0E7FF | Element: Recently Saved (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Recently Saved
+TEXT: 'Recently Saved' | Color: #E0E7FF | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 258023355696 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1502153752273 > Vector
+FILL: #94A3B8 | Element: By Book (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > By Book
+TEXT: 'By Book' | Color: #94A3B8 | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 207404515512 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 899989633616 > Vector
+FILL: #94A3B8 | Element: Oldest (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Oldest
+TEXT: 'Oldest' | Color: #94A3B8 | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 24717865873 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath-1 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 904627578506 > Vector
+FILL: #E0E7FF | Element: "Perhaps one did not want to beВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Perhaps one did not want to beВ 
+TEXT: '"Perhaps one did not want to beВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: loved so much as to be understood.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > loved so much as to be understood.В 
+TEXT: 'loved so much as to be understood.В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: The Party told you to reject theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Party told you to reject theВ 
+TEXT: 'The Party told you to reject theВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: evidence of your eyes and ears. ItВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > evidence of your eyes and ears. ItВ 
+TEXT: 'evidence of your eyes and ears. ItВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: was their final, most essentialВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > was their final, most essentialВ 
+TEXT: 'was their final, most essentialВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: command. Winston Smith worked atВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > command. Winston Smith worked atВ 
+TEXT: 'command. Winston Smith worked atВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: the Ministry of Truth, where his jobВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > the Ministry of Truth, where his jobВ 
+TEXT: 'the Ministry of Truth, where his jobВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: was to rewrite history." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > was to rewrite history."
+TEXT: 'was to rewrite history."' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1666436064755 > Vector
+FILL: #A78BFA | Element: 1984 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > 1984
+TEXT: '1984' | Color: #A78BFA | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 64229363679 > Vector
+FILL: #64748B | Element: В· George Orwell (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > В· George Orwell
+TEXT: 'В· George Orwell' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1482872050544 > Vector
+FILL: #64748B | Element: Saved 2 hours ago (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved 2 hours ago
+TEXT: 'Saved 2 hours ago' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 65520336563 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath0 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1731849918974 > Vector
+FILL: #E0E7FF | Element: "So we beat on, boats against theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "So we beat on, boats against theВ 
+TEXT: '"So we beat on, boats against theВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: current, borne back ceaselessly intoВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > current, borne back ceaselessly intoВ 
+TEXT: 'current, borne back ceaselessly intoВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: the past. Gatsby believed in theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > the past. Gatsby believed in theВ 
+TEXT: 'the past. Gatsby believed in theВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: green light, the orgastic future thatВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > green light, the orgastic future thatВ 
+TEXT: 'green light, the orgastic future thatВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: year by year recedes before us. ItВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > year by year recedes before us. ItВ 
+TEXT: 'year by year recedes before us. ItВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: eluded us then, but that's noВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > eluded us then, but that's noВ 
+TEXT: 'eluded us then, but that's noВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: matterвЂ”вЂ‹tomorrow we will run faster,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > matterвЂ”вЂ‹tomorrow we will run faster,В 
+TEXT: 'matterвЂ”вЂ‹tomorrow we will run faster,В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: stretch out our arms farther." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > stretch out our arms farther."
+TEXT: 'stretch out our arms farther."' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1627011164718 > Vector
+FILL: #A78BFA | Element: The Great Gatsby (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Great Gatsby
+TEXT: 'The Great Gatsby' | Color: #A78BFA | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1594587738123 > Vector
+FILL: #64748B | Element: В· F. Scott Fitzgerald (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > В· F. Scott Fitzgerald
+TEXT: 'В· F. Scott Fitzgerald' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1400178327095 > Vector
+FILL: #64748B | Element: Saved yesterday (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved yesterday
+TEXT: 'Saved yesterday' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1006667339390 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath1 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 510332072887 > Vector
+FILL: #E0E7FF | Element: "If you only read the books thatВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "If you only read the books thatВ 
+TEXT: '"If you only read the books thatВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: everyone else is reading, you canВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > everyone else is reading, you canВ 
+TEXT: 'everyone else is reading, you canВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: only think what everyone else isВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > only think what everyone else isВ 
+TEXT: 'only think what everyone else isВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: thinking. Don't you think it'sВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > thinking. Don't you think it'sВ 
+TEXT: 'thinking. Don't you think it'sВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: important to read books that no oneВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > important to read books that no oneВ 
+TEXT: 'important to read books that no oneВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: else is reading? To think thoughtsВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > else is reading? To think thoughtsВ 
+TEXT: 'else is reading? To think thoughtsВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: that no one else is thinking? That'sВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > that no one else is thinking? That'sВ 
+TEXT: 'that no one else is thinking? That'sВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: what makes you different fromВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > what makes you different fromВ 
+TEXT: 'what makes you different fromВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: everyone else." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > everyone else."
+TEXT: 'everyone else."' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 959320294062 > Vector
+FILL: #A78BFA | Element: Norwegian Wood (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Norwegian Wood
+TEXT: 'Norwegian Wood' | Color: #A78BFA | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 582503913776 > Vector
+FILL: #64748B | Element: В· Haruki Murakami (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > В· Haruki Murakami
+TEXT: 'В· Haruki Murakami' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1192389867619 > Vector
+FILL: #64748B | Element: Saved 3 days ago (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved 3 days ago
+TEXT: 'Saved 3 days ago' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1461783493885 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath2 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 634818029075 > Vector
+FILL: #E0E7FF | Element: "Freeing yourself was one thing,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Freeing yourself was one thing,В 
+TEXT: '"Freeing yourself was one thing,В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: claiming ownership of that freed selfВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > claiming ownership of that freed selfВ 
+TEXT: 'claiming ownership of that freed selfВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: was another. She had to get throughВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > was another. She had to get throughВ 
+TEXT: 'was another. She had to get throughВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: the days somehow, and the nightsВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > the days somehow, and the nightsВ 
+TEXT: 'the days somehow, and the nightsВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: were even harder. The past was aВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > were even harder. The past was aВ 
+TEXT: 'were even harder. The past was aВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: weight she carried everywhere, butВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > weight she carried everywhere, butВ 
+TEXT: 'weight she carried everywhere, butВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: she was learning to set it down,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > she was learning to set it down,В 
+TEXT: 'she was learning to set it down,В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: piece by piece." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > piece by piece."
+TEXT: 'piece by piece."' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 385913585807 > Vector
+FILL: #A78BFA | Element: Beloved (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Beloved
+TEXT: 'Beloved' | Color: #A78BFA | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1332400649356 > Vector
+FILL: #64748B | Element: В· Toni Morrison (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > В· Toni Morrison
+TEXT: 'В· Toni Morrison' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1150675468961 > Vector
+FILL: #64748B | Element: Saved 5 days ago (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved 5 days ago
+TEXT: 'Saved 5 days ago' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1003711585578 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath3 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 7651993014 > Vector
+FILL: #E0E7FF | Element: "I opened myself to the gentleВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "I opened myself to the gentleВ 
+TEXT: '"I opened myself to the gentleВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: indifference of the world. Finding itВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > indifference of the world. Finding itВ 
+TEXT: 'indifference of the world. Finding itВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: so much like myselfвЂ”вЂ‹so like aВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > so much like myselfвЂ”вЂ‹so like aВ 
+TEXT: 'so much like myselfвЂ”вЂ‹so like aВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: brother, reallyвЂ”вЂ‹I felt that I had beenВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > brother, reallyвЂ”вЂ‹I felt that I had beenВ 
+TEXT: 'brother, reallyвЂ”вЂ‹I felt that I had beenВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: happy and that I was happy again.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > happy and that I was happy again.В 
+TEXT: 'happy and that I was happy again.В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: For everything to be consummated,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > For everything to be consummated,В 
+TEXT: 'For everything to be consummated,В ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: for me to feel less alone, I had onlyВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > for me to feel less alone, I had onlyВ 
+TEXT: 'for me to feel less alone, I had onlyВ ' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #E0E7FF | Element: to wish." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > to wish."
+TEXT: 'to wish."' | Color: #E0E7FF | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 880989100271 > Vector
+FILL: #A78BFA | Element: The Stranger (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Stranger
+TEXT: 'The Stranger' | Color: #A78BFA | Size: 12.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1044636858386 > Vector
+FILL: #64748B | Element: В· Albert Camus (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > В· Albert Camus
+TEXT: 'В· Albert Camus' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 403595371614 > Vector
+FILL: #64748B | Element: Saved 1 week ago (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Saved 1 week ago
+TEXT: 'Saved 1 week ago' | Color: #64748B | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1406732643267 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 798621033019 > Vector
+FILL: #FFFFFF | Element: QuoteScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > QuoteScroll
+TEXT: 'QuoteScroll' | Color: #FFFFFF | Size: 18.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 221341841218 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 957605923830 > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath4 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 733832305113 > Vector
+FILL: #FFFFFF | Element: Letters to a Young Poet (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Letters to a Young Poet
+TEXT: 'Letters to a Young Poet' | Color: #FFFFFF | Size: 20.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1163139254085 > Vector
+FILL: #A78BFA | Element: Rainer Maria Rilke (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Rainer Maria Rilke
+TEXT: 'Rainer Maria Rilke' | Color: #A78BFA | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 378216916068 > Vector
+FILL: #9CA3AF | Element: 1929 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > 1929
+TEXT: '1929' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 258469698020 > Vector
+FILL: #9CA3AF | Element: Philosophy (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Philosophy
+TEXT: 'Philosophy' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1629649848932 > Vector
+FILL: #9CA3AF | Element: Letters (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Letters
+TEXT: 'Letters' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 358974487612 > Vector
+FILL: #0B1020 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 228289517131 > Vector
+FILL: #E0E7FF | Element: About This Book (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > About This Book
+TEXT: 'About This Book' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1767586968097 > Vector
+FILL: #9CA3AF | Element: A profound collection of ten letters writtenВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > A profound collection of ten letters writtenВ 
+TEXT: 'A profound collection of ten letters writtenВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: between 1903 and 1908 by the poet Rainer MariaВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > between 1903 and 1908 by the poet Rainer MariaВ 
+TEXT: 'between 1903 and 1908 by the poet Rainer MariaВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: Rilke to a young aspiring writer. The letters exploreВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Rilke to a young aspiring writer. The letters exploreВ 
+TEXT: 'Rilke to a young aspiring writer. The letters exploreВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: solitude, creativity, love, and the meaning ofВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > solitude, creativity, love, and the meaning ofВ 
+TEXT: 'solitude, creativity, love, and the meaning ofВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: artistic life. The tone is intimate, contemplative,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > artistic life. The tone is intimate, contemplative,В 
+TEXT: 'artistic life. The tone is intimate, contemplative,В ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: and deeply encouraging вЂ” a timeless guide forВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > and deeply encouraging вЂ” a timeless guide forВ 
+TEXT: 'and deeply encouraging вЂ” a timeless guide forВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: anyone seeking purpose through self-вЂ‹expression.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > anyone seeking purpose through self-вЂ‹expression.В 
+TEXT: 'anyone seeking purpose through self-вЂ‹expression.В ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: You'll read 1-2 page passages from each letter,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > You'll read 1-2 page passages from each letter,В 
+TEXT: 'You'll read 1-2 page passages from each letter,В ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: carefully selected to capture the essence of Rilke'sВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > carefully selected to capture the essence of Rilke'sВ 
+TEXT: 'carefully selected to capture the essence of Rilke'sВ ' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #9CA3AF | Element: wisdom. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > wisdom.
+TEXT: 'wisdom.' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 103757648406 > Vector
+FILL: #E0E7FF | Element: Sample Passages from This Book (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Sample Passages from This Book
+TEXT: 'Sample Passages from This Book' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1055873647910 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 377616017793 > Vector
+FILL: #FFFFFF | Element: "Perhaps all the dragons in our lives areВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Perhaps all the dragons in our lives areВ 
+TEXT: '"Perhaps all the dragons in our lives areВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: princesses who are only waiting to see us act, justВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > princesses who are only waiting to see us act, justВ 
+TEXT: 'princesses who are only waiting to see us act, justВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: once, with beauty and courage. PerhapsВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > once, with beauty and courage. PerhapsВ 
+TEXT: 'once, with beauty and courage. PerhapsВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: everything that frightens us is, in its deepestВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > everything that frightens us is, in its deepestВ 
+TEXT: 'everything that frightens us is, in its deepestВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: essence, something helpless that wants our love.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > essence, something helpless that wants our love.В 
+TEXT: 'essence, something helpless that wants our love.В ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: So you mustn't be frightened if a sadness rises inВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > So you mustn't be frightened if a sadness rises inВ 
+TEXT: 'So you mustn't be frightened if a sadness rises inВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: front of you, larger than any you have ever seen." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > front of you, larger than any you have ever seen."
+TEXT: 'front of you, larger than any you have ever seen."' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 378156956977 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 814394978303 > Vector
+FILL: #FFFFFF | Element: "The only journey is the one within. We must goВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "The only journey is the one within. We must goВ 
+TEXT: '"The only journey is the one within. We must goВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: into ourselves and discover the depths of our ownВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > into ourselves and discover the depths of our ownВ 
+TEXT: 'into ourselves and discover the depths of our ownВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: being. There is no other path to understanding theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > being. There is no other path to understanding theВ 
+TEXT: 'being. There is no other path to understanding theВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: world around us. Everything we seek externallyВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > world around us. Everything we seek externallyВ 
+TEXT: 'world around us. Everything we seek externallyВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: must first be found in the quiet chambers of ourВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > must first be found in the quiet chambers of ourВ 
+TEXT: 'must first be found in the quiet chambers of ourВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: own heart, where truth resides in its purest form." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > own heart, where truth resides in its purest form."
+TEXT: 'own heart, where truth resides in its purest form."' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1378877122685 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1409250864701 > Vector
+FILL: #FFFFFF | Element: "Go into yourself. Find out the reason thatВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Go into yourself. Find out the reason thatВ 
+TEXT: '"Go into yourself. Find out the reason thatВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: commands you to write; see whether it has spreadВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > commands you to write; see whether it has spreadВ 
+TEXT: 'commands you to write; see whether it has spreadВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: its roots into the very depths of your heart;В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > its roots into the very depths of your heart;В 
+TEXT: 'its roots into the very depths of your heart;В ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: confess to yourself whether you would have to dieВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > confess to yourself whether you would have to dieВ 
+TEXT: 'confess to yourself whether you would have to dieВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: if you were forbidden to write. This most of all: askВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > if you were forbidden to write. This most of all: askВ 
+TEXT: 'if you were forbidden to write. This most of all: askВ ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: yourself in the most silent hour of your night:В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > yourself in the most silent hour of your night:В 
+TEXT: 'yourself in the most silent hour of your night:В ' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: must I write?" (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > must I write?"
+TEXT: 'must I write?"' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1607866403103 > Vector
+FILL: #A78BFA | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Read PassagesВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Read PassagesВ 
+TEXT: 'Read PassagesВ ' | Color: #FFFFFF | Size: 14.0px 700
+FILL: #FFFFFF | Element: from This Book (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > from This Book
+TEXT: 'from This Book' | Color: #FFFFFF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1526454222144 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #A78BFA (weight: 2.0px) | Element: Vector
+FILL: #A78BFA | Element: Back to Stream (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Back to Stream
+TEXT: 'Back to Stream' | Color: #A78BFA | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1529226746125 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 597600670791 > Vector
+FILL: #FFFFFF | Element: LitScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > LitScroll
+TEXT: 'LitScroll' | Color: #FFFFFF | Size: 18.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 857602857746 > Vector
+FILL: #0B1020 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1759965002152 > Vector
+FILL: #FFFFFF | Element: The studio was filled with the rich odour ofВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The studio was filled with the rich odour ofВ 
+TEXT: 'The studio was filled with the rich odour ofВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: roses, and when the light summer wind stirredВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > roses, and when the light summer wind stirredВ 
+TEXT: 'roses, and when the light summer wind stirredВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: amidst the trees of the garden, there cameВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > amidst the trees of the garden, there cameВ 
+TEXT: 'amidst the trees of the garden, there cameВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: through the open door the heavy scent of theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > through the open door the heavy scent of theВ 
+TEXT: 'through the open door the heavy scent of theВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: lilac, or the more delicate perfume of the pink-вЂ‹ (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > lilac, or the more delicate perfume of the pink-вЂ‹
+TEXT: 'lilac, or the more delicate perfume of the pink-вЂ‹' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: flowering thorn. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > flowering thorn.
+TEXT: 'flowering thorn.' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1079832567858 > Vector
+FILL: #FFFFFF | Element: From the corner of the divan of Persian saddle-вЂ‹ (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > From the corner of the divan of Persian saddle-вЂ‹
+TEXT: 'From the corner of the divan of Persian saddle-вЂ‹' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: bags on which he was lying, smoking, as was hisВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > bags on which he was lying, smoking, as was hisВ 
+TEXT: 'bags on which he was lying, smoking, as was hisВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: custom, innumerable cigarettes, Lord HenryВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > custom, innumerable cigarettes, Lord HenryВ 
+TEXT: 'custom, innumerable cigarettes, Lord HenryВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Wotton could just catch the gleam of the honey-вЂ‹ (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Wotton could just catch the gleam of the honey-вЂ‹
+TEXT: 'Wotton could just catch the gleam of the honey-вЂ‹' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: sweet and honey-вЂ‹coloured blossoms of aВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > sweet and honey-вЂ‹coloured blossoms of aВ 
+TEXT: 'sweet and honey-вЂ‹coloured blossoms of aВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: laburnum, whose tremulous branches seemedВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > laburnum, whose tremulous branches seemedВ 
+TEXT: 'laburnum, whose tremulous branches seemedВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: hardly able to bear the burden of a beauty soВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > hardly able to bear the burden of a beauty soВ 
+TEXT: 'hardly able to bear the burden of a beauty soВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: flamelike as theirs. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > flamelike as theirs.
+TEXT: 'flamelike as theirs.' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 828770796782 > Vector
+FILL: #FFFFFF | Element: And now and then the fantastic shadows ofВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > And now and then the fantastic shadows ofВ 
+TEXT: 'And now and then the fantastic shadows ofВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: birds in flight flitted across the long tussore-вЂ‹silkВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > birds in flight flitted across the long tussore-вЂ‹silkВ 
+TEXT: 'birds in flight flitted across the long tussore-вЂ‹silkВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: curtains that were stretched in front of the hugeВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > curtains that were stretched in front of the hugeВ 
+TEXT: 'curtains that were stretched in front of the hugeВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: window, producing a kind of momentaryВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > window, producing a kind of momentaryВ 
+TEXT: 'window, producing a kind of momentaryВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Japanese effect, and making him think of thoseВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Japanese effect, and making him think of thoseВ 
+TEXT: 'Japanese effect, and making him think of thoseВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: pallid, jade-вЂ‹faced painters of Tokyo who,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > pallid, jade-вЂ‹faced painters of Tokyo who,В 
+TEXT: 'pallid, jade-вЂ‹faced painters of Tokyo who,В ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: through the medium of an art that is necessarilyВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > through the medium of an art that is necessarilyВ 
+TEXT: 'through the medium of an art that is necessarilyВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: immobile, seek to convey the sense of swiftnessВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > immobile, seek to convey the sense of swiftnessВ 
+TEXT: 'immobile, seek to convey the sense of swiftnessВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: and motion. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > and motion.
+TEXT: 'and motion.' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1381043220431 > Vector
+FILL: #FFFFFF | Element: The sullen murmur of the bees shouldering theirВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The sullen murmur of the bees shouldering theirВ 
+TEXT: 'The sullen murmur of the bees shouldering theirВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: way through the long unmown grass, or circlingВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > way through the long unmown grass, or circlingВ 
+TEXT: 'way through the long unmown grass, or circlingВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: with monotonous insistence round the dusty giltВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > with monotonous insistence round the dusty giltВ 
+TEXT: 'with monotonous insistence round the dusty giltВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: horns of the straggling woodbine, seemed toВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > horns of the straggling woodbine, seemed toВ 
+TEXT: 'horns of the straggling woodbine, seemed toВ ' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: make the stillness more oppressive. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > make the stillness more oppressive.
+TEXT: 'make the stillness more oppressive.' | Color: #FFFFFF | Size: 15.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 997582945052 > Vector
+FILL: #C4B5FD | Element: вЂ” Oscar Wilde (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > вЂ” Oscar Wilde
+TEXT: 'вЂ” Oscar Wilde' | Color: #C4B5FD | Size: 13.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1660257881747 > Vector
+FILL: #94A3B8 | Element: Page 1 of 2 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Page 1 of 2
+TEXT: 'Page 1 of 2' | Color: #94A3B8 | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1598494467339 > Vector
+FILL: #F87171 | Element: 2,481 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > 2,481
+TEXT: '2,481' | Color: #F87171 | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1392124271417 > Vector
+FILL: #A78BFA | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 774650990746 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 927985296410 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 386004829753 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1232303754412 > Vector
+FILL: #0B1020 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath5 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1505325444876 > Vector
+FILL: #FFFFFF | Element: Continue this passage (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Continue this passage
+TEXT: 'Continue this passage' | Color: #FFFFFF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1231454699361 > Vector
+FILL: #C4B5FD | Element: Oscar Wilde В· 1890 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Oscar Wilde В· 1890
+TEXT: 'Oscar Wilde В· 1890' | Color: #C4B5FD | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 798116370518 > Vector
+FILL: #9CA3AF | Element: Gothic Fiction (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Gothic Fiction
+TEXT: 'Gothic Fiction' | Color: #9CA3AF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1042723801086 > Vector
+FILL: #6B7280 | Element: Swipe up for next passage (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Swipe up for next passage
+TEXT: 'Swipe up for next passage' | Color: #6B7280 | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1359698705948 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 93260475090 > Vector
+FILL: #FFFFFF | Element: LitScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > LitScroll
+TEXT: 'LitScroll' | Color: #FFFFFF | Size: 18.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 261806441238 > Vector
+FILL: #7C3AED | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Start Reading Passages (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Start Reading Passages
+TEXT: 'Start Reading Passages' | Color: #FFFFFF | Size: 18.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 102382579747 > Vector
+FILL: #E0E7FF | Element: Continue Reading (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Continue Reading
+TEXT: 'Continue Reading' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 464330453106 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath6 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 901955624340 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 133015418433 > Vector
+FILL: #A78BFA | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 704177747842 > Vector
+FILL: #E0E7FF | Element: "When you wantВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "When you wantВ 
+TEXT: '"When you wantВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: something, all theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > something, all theВ 
+TEXT: 'something, all theВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: universe conspires..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > universe conspires..."
+TEXT: 'universe conspires..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 276336968427 > Vector
+FILL: #6B7280 | Element: The Alchemist вЂў 65% (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Alchemist вЂў 65%
+TEXT: 'The Alchemist вЂў 65%' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1333870897880 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath7 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1323464926963 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 987267138974 > Vector
+FILL: #A78BFA | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 535785211013 > Vector
+FILL: #E0E7FF | Element: "You have power overВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "You have power overВ 
+TEXT: '"You have power overВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: your mindвЂ”вЂ‹not outsideВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > your mindвЂ”вЂ‹not outsideВ 
+TEXT: 'your mindвЂ”вЂ‹not outsideВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: events..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > events..."
+TEXT: 'events..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 927478138130 > Vector
+FILL: #6B7280 | Element: Meditations вЂў 42% (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Meditations вЂў 42%
+TEXT: 'Meditations вЂў 42%' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 292274404935 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1583658503813 > Vector
+FILL: #E0E7FF | Element: Discover (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Discover
+TEXT: 'Discover' | Color: #E0E7FF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1054466317834 > Vector
+FILL: #E0E7FF | Element: Recommendations (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Recommendations
+TEXT: 'Recommendations' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 760297241567 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath8 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1528684500650 > Vector
+FILL: #E0E7FF | Element: "Everything can beВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Everything can beВ 
+TEXT: '"Everything can beВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: taken from a manВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > taken from a manВ 
+TEXT: 'taken from a manВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: but one thing..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > but one thing..."
+TEXT: 'but one thing..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 818273981778 > Vector
+FILL: #6B7280 | Element: V. Frankl (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > V. Frankl
+TEXT: 'V. Frankl' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 351143561912 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath9 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 263944216130 > Vector
+FILL: #E0E7FF | Element: "Your pain is theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "Your pain is theВ 
+TEXT: '"Your pain is theВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: breaking of the shellВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > breaking of the shellВ 
+TEXT: 'breaking of the shellВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: that encloses yourВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > that encloses yourВ 
+TEXT: 'that encloses yourВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: understanding..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > understanding..."
+TEXT: 'understanding..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1196371091705 > Vector
+FILL: #6B7280 | Element: The Prophet (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Prophet
+TEXT: 'The Prophet' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1389954371895 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath10 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1552399632359 > Vector
+FILL: #E0E7FF | Element: "We did notВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "We did notВ 
+TEXT: '"We did notВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: domesticate wheat. ItВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > domesticate wheat. ItВ 
+TEXT: 'domesticate wheat. ItВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: domesticated us..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > domesticated us..."
+TEXT: 'domesticated us..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 661420545488 > Vector
+FILL: #6B7280 | Element: Sapiens (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Sapiens
+TEXT: 'Sapiens' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1720731760881 > Vector
+FILL: #E0E7FF | Element: Popular (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Popular
+TEXT: 'Popular' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1209129652409 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath11 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1735905251249 > Vector
+FILL: #E0E7FF | Element: "A man can beВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "A man can beВ 
+TEXT: '"A man can beВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: destroyed but notВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > destroyed but notВ 
+TEXT: 'destroyed but notВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: defeated..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > defeated..."
+TEXT: 'defeated..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1090506222377 > Vector
+FILL: #6B7280 | Element: Hemingway (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Hemingway
+TEXT: 'Hemingway' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1038816887833 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath12 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 441219706667 > Vector
+FILL: #E0E7FF | Element: "You do not rise toВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "You do not rise toВ 
+TEXT: '"You do not rise toВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: the level of yourВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > the level of yourВ 
+TEXT: 'the level of yourВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: goals. You fall to theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > goals. You fall to theВ 
+TEXT: 'goals. You fall to theВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: level of yourВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > level of yourВ 
+TEXT: 'level of yourВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: systems..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > systems..."
+TEXT: 'systems..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 523171530660 > Vector
+FILL: #6B7280 | Element: Atomic Habits (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Atomic Habits
+TEXT: 'Atomic Habits' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1186088871876 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath13 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1180792683678 > Vector
+FILL: #E0E7FF | Element: "It is only with theВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "It is only with theВ 
+TEXT: '"It is only with theВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: heart that one canВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > heart that one canВ 
+TEXT: 'heart that one canВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: see rightly..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > see rightly..."
+TEXT: 'see rightly..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 54849995304 > Vector
+FILL: #6B7280 | Element: The Little Prince (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Little Prince
+TEXT: 'The Little Prince' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1038249713100 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 214975516947 > Vector
+FILL: #E0E7FF | Element: Explore More (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Explore More
+TEXT: 'Explore More' | Color: #E0E7FF | Size: 14.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 526859564300 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath14 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1704386491576 > Vector
+FILL: #E0E7FF | Element: "War is peace.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "War is peace.В 
+TEXT: '"War is peace.В ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: Freedom is slavery.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Freedom is slavery.В 
+TEXT: 'Freedom is slavery.В ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: Ignorance isВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Ignorance isВ 
+TEXT: 'Ignorance isВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: strength..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > strength..."
+TEXT: 'strength..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1602249710610 > Vector
+FILL: #6B7280 | Element: 1984 (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > 1984
+TEXT: '1984' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1352770787617 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath15 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 97414690790 > Vector
+FILL: #E0E7FF | Element: "If you were bornВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "If you were bornВ 
+TEXT: '"If you were bornВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: with the weakness toВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > with the weakness toВ 
+TEXT: 'with the weakness toВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: fall you were bornВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > fall you were bornВ 
+TEXT: 'fall you were bornВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: with the strength toВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > with the strength toВ 
+TEXT: 'with the strength toВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: rise..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > rise..."
+TEXT: 'rise..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1569234574560 > Vector
+FILL: #6B7280 | Element: Milk and Honey (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Milk and Honey
+TEXT: 'Milk and Honey' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 543044281059 > Vector
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Clip path group > clipPath16 > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1156430077711 > Vector
+FILL: #E0E7FF | Element: "In the midst ofВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > "In the midst ofВ 
+TEXT: '"In the midst ofВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: chaos, there is alsoВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > chaos, there is alsoВ 
+TEXT: 'chaos, there is alsoВ ' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #E0E7FF | Element: opportunity..." (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > opportunity..."
+TEXT: 'opportunity..."' | Color: #E0E7FF | Size: 12.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 380594936396 > Vector
+FILL: #6B7280 | Element: The Art of War (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > The Art of War
+TEXT: 'The Art of War' | Color: #6B7280 | Size: 9.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1483417757480 > Vector
+FILL: #0A0F1E | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 164319079425 > Vector
+FILL: #FFFFFF | Element: LitScroll (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > LitScroll
+TEXT: 'LitScroll' | Color: #FFFFFF | Size: 20.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 349676079892 > Vector
+FILL: #A78BFA | Element: Discover how reading feels reimagined (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Discover how reading feels reimagined
+TEXT: 'Discover how reading feels reimagined' | Color: #A78BFA | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1731908087995 > Vector
+FILL: #7C3AED | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #7C3AED (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 953010683215 > Vector
+FILL: #7C3AED | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 597367285082 > Vector
+FILL: #FFFFFF | Element: Read Immersive Passages (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Read Immersive Passages
+TEXT: 'Read Immersive Passages' | Color: #FFFFFF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1099550178026 > Vector
+FILL: #94A3B8 | Element: Experience literature in 1-2 pageВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Experience literature in 1-2 pageВ 
+TEXT: 'Experience literature in 1-2 pageВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: passages designed for focused reading.В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > passages designed for focused reading.В 
+TEXT: 'passages designed for focused reading.В ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: Swipe vertically through beautifullyВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Swipe vertically through beautifullyВ 
+TEXT: 'Swipe vertically through beautifullyВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: formatted excerpts вЂ” each one aВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > formatted excerpts вЂ” each one aВ 
+TEXT: 'formatted excerpts вЂ” each one aВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: complete moment from great books. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > complete moment from great books.
+TEXT: 'complete moment from great books.' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 499465111233 > Vector
+FILL: #3B82F6 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #3B82F6 (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 806167624906 > Vector
+FILL: #3B82F6 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1197124088380 > Vector
+FILL: #FFFFFF | Element: Personalized For You (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Personalized For You
+TEXT: 'Personalized For You' | Color: #FFFFFF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 144446080872 > Vector
+FILL: #94A3B8 | Element: Browse categories tailored to your tasteВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Browse categories tailored to your tasteВ 
+TEXT: 'Browse categories tailored to your tasteВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: вЂ” viewed recently, recommendations,В  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > вЂ” viewed recently, recommendations,В 
+TEXT: 'вЂ” viewed recently, recommendations,В ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: random discoveries, and trendingВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > random discoveries, and trendingВ 
+TEXT: 'random discoveries, and trendingВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: popular passages all in one elegant feed. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > popular passages all in one elegant feed.
+TEXT: 'popular passages all in one elegant feed.' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 660421311601 > Vector
+FILL: #EC4899 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+STROKE: #EC4899 (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 391190571266 > Vector
+FILL: #EC4899 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 283850035457 > Vector
+FILL: #FFFFFF | Element: Save & Collect (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Save & Collect
+TEXT: 'Save & Collect' | Color: #FFFFFF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 1724985187303 > Vector
+FILL: #94A3B8 | Element: Engage with passages socially вЂ” tap toВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Engage with passages socially вЂ” tap toВ 
+TEXT: 'Engage with passages socially вЂ” tap toВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: save, build your personal library, and seeВ  (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > save, build your personal library, and seeВ 
+TEXT: 'save, build your personal library, and seeВ ' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #94A3B8 | Element: what resonates with readers worldwide. (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > what resonates with readers worldwide.
+TEXT: 'what resonates with readers worldwide.' | Color: #94A3B8 | Size: 14.0px 400
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 747185490466 > Vector
+FILL: #7C3AED | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > Vector
+FILL: #FFFFFF | Element: Begin Reading (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Begin Reading
+TEXT: 'Begin Reading' | Color: #FFFFFF | Size: 16.0px 700
+FILL: #FFFFFF | Element: Frame (FRAME) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > LitScroll > Frame > Group > Group > Frame > Page-1 > Clip path group > 326964498237 > Vector
+FILL: #64748B | Element: Back to Welcome (TEXT) | Path: Root > Document > LitScroll > Frame > Group > Group > Group > Back to Welcome
+TEXT: 'Back to Welcome' | Color: #64748B | Size: 14.0px 400
+FILL: #111010 | Element: Group (FRAME) | Path: Root > Document > Price App > Group
+FILL: #FFFFFF | Element: < Back (TEXT) | Path: Root > Document > Price App > Group > < Back
+TEXT: '< Back' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: LIST 1 (TEXT) | Path: Root > Document > Price App > Group > LIST 1
+TEXT: 'LIST 1' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 1 (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Item 1
+TEXT: 'Item 1' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 10$ (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 10$
+TEXT: '10$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 2 (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Item 2
+TEXT: 'Item 2' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 90$ (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 90$
+TEXT: '90$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group > Frame 19 > Frame 19 > Frame 15 > Frame 13
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Group > Frame 19 > Frame 19 > Frame 15 > Frame 13 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Total: 100$ (TEXT) | Path: Root > Document > Price App > Group > Total: 100$
+TEXT: 'Total: 100$' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 11 (FRAME) | Path: Root > Document > Price App > Group > Frame 11
+FILL: #000000 | Element: SAVE (TEXT) | Path: Root > Document > Price App > Group > Frame 11 > SAVE
+TEXT: 'SAVE' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Group (Edit amount) (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount)
+FILL: #FFFFFF | Element: < List Title (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > < List Title
+TEXT: '< List Title' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 1 (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Item 1
+TEXT: 'Item 1' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 10$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 10$
+TEXT: '10$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 2 (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Item 2
+TEXT: 'Item 2' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 90$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 90$
+TEXT: '90$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Total: 100$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Total: 100$
+TEXT: 'Total: 100$' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 1 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 1
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 1 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Recipe (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Recipe
+FILL: #FFFFFF | Element: Frame 22 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22
+FILL: #000000 | Element: Frame 23 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 23
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 23 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Frame 26 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 26
+FILL: #000000 | Element: Frame 24 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 24
+FILL: #FFFFFF | Element: 10$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 24 > 10$
+TEXT: '10$' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #4049FF | Element: Frame 25 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 25
+FILL: #FFFFFF | Element: Save (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 25 > Save
+TEXT: 'Save' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #111010 | Element: Group (Edit amount) (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount)
+FILL: #FFFFFF | Element: < List Title (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > < List Title
+TEXT: '< List Title' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 1 (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Item 1
+TEXT: 'Item 1' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 10$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 17 > Frame 15 > Frame 13 > Frame 14 > 10$
+TEXT: '10$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Frame 13 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13
+FILL: #4049FF | Element: Frame 15 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15
+FILL: #FFFFFF | Element: ? (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 15 > ?
+TEXT: '?' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #000000 | Element: Item 2 (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Item 2
+TEXT: 'Item 2' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Frame 14 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14
+FILL: #FFFFFF | Element: 1 kg (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 1 kg
+TEXT: '1 kg' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: 90$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 19 > Frame 18 > Frame 15 > Frame 13 > Frame 14 > 90$
+TEXT: '90$' | Color: #FFFFFF | Size: 18.0px 400
+FILL: #FFFFFF | Element: Total: 100$ (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Total: 100$
+TEXT: 'Total: 100$' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 1 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 1
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Group (Edit amount) > Frame 1 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Recipe (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Recipe
+FILL: #FFFFFF | Element: Frame 22 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22
+FILL: #000000 | Element: Are you sure? (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Are you sure?
+TEXT: 'Are you sure?' | Color: #000000 | Size: 24.0px 400
+FILL: #000000 | Element: Frame 23 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 23
+FILL: #FFFFFF | Element: No (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 23 > No
+TEXT: 'No' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #4049FF | Element: Frame 25 (FRAME) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 25
+FILL: #FFFFFF | Element: Yes (TEXT) | Path: Root > Document > Price App > Group (Edit amount) > Frame 22 > Frame 27 > Frame 25 > Yes
+TEXT: 'Yes' | Color: #FFFFFF | Size: 24.0px 400
+FILL: #111010 | Element: Home (Groups) (FRAME) | Path: Root > Document > Price App > Home (Groups)
+FILL: #FFFFFF | Element: Price App (TEXT) | Path: Root > Document > Price App > Home (Groups) > Price App
+TEXT: 'Price App' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 3 (FRAME) | Path: Root > Document > Price App > Home (Groups) > Frame 9 > Frame 3
+FILL: #000000 | Element: LIST 1 (TEXT) | Path: Root > Document > Price App > Home (Groups) > Frame 9 > Frame 3 > LIST 1
+TEXT: 'LIST 1' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 4 (FRAME) | Path: Root > Document > Price App > Home (Groups) > Frame 9 > Frame 4
+FILL: #000000 | Element: LIST2 (TEXT) | Path: Root > Document > Price App > Home (Groups) > Frame 9 > Frame 4 > LIST2
+TEXT: 'LIST2' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 1 (FRAME) | Path: Root > Document > Price App > Home (Groups) > Frame 1
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Home (Groups) > Frame 1 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Product Selection (FRAME) | Path: Root > Document > Price App > Product Selection
+FILL: #FFFFFF | Element: < Back (TEXT) | Path: Root > Document > Price App > Product Selection > < Back
+TEXT: '< Back' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 12 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 12
+FILL: #000000 | Element: Item 1... (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 12 > Item 1...
+TEXT: 'Item 1...' | Color: #000000 | Size: 24.0px 400
+FILL: #FFFFFF | Element: Frame 3 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 3
+FILL: #000000 | Element: ATB (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 3 > ATB
+TEXT: 'ATB' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 2 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 2
+FILL: #000000 | Element: VAR (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 2 > VAR
+TEXT: 'VAR' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 4 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 4
+FILL: #000000 | Element: SIL (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 4 > SIL
+TEXT: 'SIL' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 5 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 5
+FILL: #000000 | Element: MY1 (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 5 > MY1
+TEXT: 'MY1' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 7 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 7
+FILL: #000000 | Element: MY2 (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 7 > MY2
+TEXT: 'MY2' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 8 (FRAME) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 8
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Product Selection > Frame 9 > Frame 8 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #111010 | Element: Add Product (FRAME) | Path: Root > Document > Price App > Add Product
+FILL: #FFFFFF | Element: < Back (TEXT) | Path: Root > Document > Price App > Add Product > < Back
+TEXT: '< Back' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 10 (FRAME) | Path: Root > Document > Price App > Add Product > Frame 10
+FILL: #000000 | Element: + (TEXT) | Path: Root > Document > Price App > Add Product > Frame 10 > +
+TEXT: '+' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Item Title (TEXT) | Path: Root > Document > Price App > Add Product > Frame 21 > Item Title
+TEXT: 'Item Title' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Item Price ($) (TEXT) | Path: Root > Document > Price App > Add Product > Frame 21 > Item Price ($)
+TEXT: 'Item Price ($)' | Color: #FFFFFF | Size: 48.0px 400
+FILL: #FFFFFF | Element: Frame 11 (FRAME) | Path: Root > Document > Price App > Add Product > Frame 28 > Frame 11
+FILL: #000000 | Element: pcs (TEXT) | Path: Root > Document > Price App > Add Product > Frame 28 > Frame 11 > pcs
+TEXT: 'pcs' | Color: #000000 | Size: 24.0px 400
+FILL: #FFFFFF | Element: Frame 11 (FRAME) | Path: Root > Document > Price App > Add Product > Frame 28 > Frame 11
+FILL: #000000 | Element: kg (TEXT) | Path: Root > Document > Price App > Add Product > Frame 28 > Frame 11 > kg
+TEXT: 'kg
+' | Color: #000000 | Size: 24.0px 400
+FILL: #FFFFFF | Element: Frame 22 (FRAME) | Path: Root > Document > Price App > Add Product > Frame 22
+FILL: #000000 | Element: SAVE (TEXT) | Path: Root > Document > Price App > Add Product > Frame 22 > SAVE
+TEXT: 'SAVE' | Color: #000000 | Size: 48.0px 400
+FILL: #FFFFFF | Element: Home (FRAME) | Path: Root > Document > Note App > Home
+FILL: #F0F0F0 | Element: Frame 2 (FRAME) | Path: Root > Document > Note App > Home > Frame 2
+FILL: #FFFFFF | Element: Iconsax/Linear/searchnormal1 (FRAME) | Path: Root > Document > Note App > Home > Frame 2 > Iconsax/Linear/searchnormal1
+STROKE: #7C7C7C (weight: 1.50px) | Element: Vector
+FILL: #7C7C7C | Element: Search for notes (TEXT) | Path: Root > Document > Note App > Home > Frame 2 > Search for notes
+TEXT: 'Search for notes' | Color: #7C7C7C | Size: 14.0px 400
+FILL: #D9E8FC | Element: Frame 9 (FRAME) | Path: Root > Document > Note App > Home > Frame 9
+FILL: #131313 | Element: Product Meeting (TEXT) | Path: Root > Document > Note App > Home > Frame 9 > Frame 23 > Product Meeting
+TEXT: 'Product Meeting' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion (TEXT) | Path: Root > Document > Note App > Home > Frame 9 > Frame 23 > Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion
+TEXT: 'Review of Previous Action Items
+Product Development Update
+User Feedback and Customer Insights
+Competitive Analysis
+Roadmap Discussion ' | Color: #131313 | Size: 12.0px 400
+FILL: #FDE99D | Element: Frame 11 (FRAME) | Path: Root > Document > Note App > Home > Frame 11
+FILL: #131313 | Element: Shopping list (TEXT) | Path: Root > Document > Note App > Home > Frame 11 > Shopping list
+TEXT: 'Shopping list' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Rice Pasta Cereal Yogurt Cheese Butter (TEXT) | Path: Root > Document > Note App > Home > Frame 11 > Rice Pasta Cereal Yogurt Cheese Butter
+TEXT: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter' | Color: #131313 | Size: 12.0px 400
+FILL: #E73333 | Element: Vector (VECTOR) | Path: Root > Document > Note App > Home > Frame 11 > Iconsax/Linear/heart > Vector
+FILL: #FFDBE4 | Element: Frame 14 (FRAME) | Path: Root > Document > Note App > Home > Frame 14
+FILL: #131313 | Element: Shopping list (TEXT) | Path: Root > Document > Note App > Home > Frame 14 > Shopping list
+TEXT: 'Shopping list' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Rice Pasta Cereal Yogurt Cheese Butter (TEXT) | Path: Root > Document > Note App > Home > Frame 14 > Rice Pasta Cereal Yogurt Cheese Butter
+TEXT: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter' | Color: #131313 | Size: 12.0px 400
+FILL: #FFEADD | Element: Frame 13 (FRAME) | Path: Root > Document > Note App > Home > Frame 13
+FILL: #131313 | Element: Notes (TEXT) | Path: Root > Document > Note App > Home > Frame 13 > Notes
+TEXT: 'Notes' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Share insights and findings from recent competitive analysis. (TEXT) | Path: Root > Document > Note App > Home > Frame 13 > Share insights and findings from recent competitive analysis.
+TEXT: 'Share insights and findings from recent competitive analysis.' | Color: #131313 | Size: 12.0px 400
+FILL: #B0E9CA | Element: Frame 12 (FRAME) | Path: Root > Document > Note App > Home > Frame 12
+FILL: #131313 | Element: Important (TEXT) | Path: Root > Document > Note App > Home > Frame 12 > Important
+TEXT: 'Important' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Summarize the key action items identified during the meeting. Assign responsible team members and set deadlines for each action item. Clarify the next steps and ensure everyone is clear on their respective tasks. (TEXT) | Path: Root > Document > Note App > Home > Frame 12 > Summarize the key action items identified during the meeting. Assign responsible team members and set deadlines for each action item. Clarify the next steps and ensure everyone is clear on their respective tasks.
+TEXT: 'Summarize the key action items identified during the meeting.
+Assign responsible team members and set deadlines for each action item.
+Clarify the next steps and ensure everyone is clear on their respective tasks.' | Color: #131313 | Size: 12.0px 400
+FILL: #FFD8F4 | Element: Frame 10 (FRAME) | Path: Root > Document > Note App > Home > Frame 10
+FILL: #131313 | Element: To-do list (TEXT) | Path: Root > Document > Note App > Home > Frame 10 > To-do list
+TEXT: 'To-do list' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Reply to emails Prepare presentation slides for the marketing meeting Conduct research on competitor products Schedule and plan customer interviews Take a break and recharge (TEXT) | Path: Root > Document > Note App > Home > Frame 10 > Reply to emails Prepare presentation slides for the marketing meeting Conduct research on competitor products Schedule and plan customer interviews Take a break and recharge
+TEXT: 'Reply to emails
+Prepare presentation slides for the marketing meeting
+Conduct research on competitor products
+Schedule and plan customer interviews
+Take a break and recharge ' | Color: #131313 | Size: 12.0px 400
+FILL: #E73333 | Element: Vector (VECTOR) | Path: Root > Document > Note App > Home > Frame 10 > Iconsax/Linear/heart > Vector
+FILL: #FCFAD9 | Element: Frame 9 (FRAME) | Path: Root > Document > Note App > Home > Frame 9
+FILL: #131313 | Element: Product Meeting (TEXT) | Path: Root > Document > Note App > Home > Frame 9 > Product Meeting
+TEXT: 'Product Meeting' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion (TEXT) | Path: Root > Document > Note App > Home > Frame 9 > Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion
+TEXT: 'Review of Previous Action Items
+Product Development Update
+User Feedback and Customer Insights
+Competitive Analysis
+Roadmap Discussion ' | Color: #131313 | Size: 12.0px 400
+FILL: #070707 | Element: Ellipse 2 (ELLIPSE) | Path: Root > Document > Note App > Home > Ellipse 2
+FILL: #FFFFFF | Element: Iconsax/Linear/add (FRAME) | Path: Root > Document > Note App > Home > Iconsax/Linear/add
+STROKE: #FFFFFF (weight: 2.4261362552642822px) | Element: Vector
+FILL: #181818 | Element: Frame 15 (FRAME) | Path: Root > Document > Note App > Home > Frame 18 > Frame 15
+FILL: #FFFFFF | Element: Tue (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 15 > Tue
+TEXT: 'Tue' | Color: #FFFFFF | Size: 12.0px 400
+FILL: #FFFFFF | Element: 23 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 15 > 23
+TEXT: '23' | Color: #FFFFFF | Size: 24.0px 700
+FILL: #FFFFFF | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 15 > Apr
+TEXT: 'Apr' | Color: #FFFFFF | Size: 12.0px 400
+STROKE: #E6E6E6 (weight: 1.0px) | Element: Frame 16
+FILL: #181818 | Element: Wed (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 16 > Wed
+TEXT: 'Wed' | Color: #181818 | Size: 12.0px 400
+FILL: #181818 | Element: 24 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 16 > 24
+TEXT: '24' | Color: #181818 | Size: 24.0px 700
+FILL: #181818 | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 16 > Apr
+TEXT: 'Apr' | Color: #181818 | Size: 12.0px 400
+STROKE: #E6E6E6 (weight: 1.0px) | Element: Frame 17
+FILL: #181818 | Element: Thu (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 17 > Thu
+TEXT: 'Thu' | Color: #181818 | Size: 12.0px 400
+FILL: #181818 | Element: 25 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 17 > 25
+TEXT: '25' | Color: #181818 | Size: 24.0px 700
+FILL: #181818 | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 17 > Apr
+TEXT: 'Apr' | Color: #181818 | Size: 12.0px 400
+STROKE: #E6E6E6 (weight: 1.0px) | Element: Frame 18
+FILL: #181818 | Element: Fri (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 18 > Fri
+TEXT: 'Fri' | Color: #181818 | Size: 12.0px 400
+FILL: #181818 | Element: 26 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 18 > 26
+TEXT: '26' | Color: #181818 | Size: 24.0px 700
+FILL: #181818 | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 18 > Apr
+TEXT: 'Apr' | Color: #181818 | Size: 12.0px 400
+STROKE: #E6E6E6 (weight: 1.0px) | Element: Frame 19
+FILL: #181818 | Element: Sat (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 19 > Sat
+TEXT: 'Sat' | Color: #181818 | Size: 12.0px 400
+FILL: #181818 | Element: 27 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 19 > 27
+TEXT: '27' | Color: #181818 | Size: 24.0px 700
+FILL: #181818 | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 19 > Apr
+TEXT: 'Apr' | Color: #181818 | Size: 12.0px 400
+STROKE: #E6E6E6 (weight: 1.0px) | Element: Frame 20
+FILL: #181818 | Element: Sun (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 20 > Sun
+TEXT: 'Sun' | Color: #181818 | Size: 12.0px 400
+FILL: #181818 | Element: 28 (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 20 > 28
+TEXT: '28' | Color: #181818 | Size: 24.0px 700
+FILL: #181818 | Element: Apr (TEXT) | Path: Root > Document > Note App > Home > Frame 18 > Frame 20 > Apr
+TEXT: 'Apr' | Color: #181818 | Size: 12.0px 400
+FILL: #FFFFFF | Element: Iconsax/Linear/heart (FRAME) | Path: Root > Document > Note App > Home > Iconsax/Linear/heart
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Notes (FRAME) | Path: Root > Document > Note App > Notes
+FILL: #FFDBE4 | Element: Frame 14 (FRAME) | Path: Root > Document > Note App > Notes > Frame 14
+FILL: #131313 | Element: Shopping list (TEXT) | Path: Root > Document > Note App > Notes > Frame 14 > Shopping list
+TEXT: 'Shopping list' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Rice Pasta Cereal Yogurt Cheese Butter (TEXT) | Path: Root > Document > Note App > Notes > Frame 14 > Rice Pasta Cereal Yogurt Cheese Butter
+TEXT: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter' | Color: #131313 | Size: 12.0px 400
+FILL: #181818 | Element: Product Management (TEXT) | Path: Root > Document > Note App > Notes > Frame 24 > Product Management
+TEXT: 'Product Management' | Color: #181818 | Size: 40.0px 700
+FILL: #292929 | Element: Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI (TEXT) | Path: Root > Document > Note App > Notes > Frame 24 > Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI
+TEXT: 'Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization.
+
+Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions.
+Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI' | Color: #292929 | Size: 18.0px 400
+FILL: #FFFFFF | Element: Iconsax/Linear/arrowleft (FRAME) | Path: Root > Document > Note App > Notes > Iconsax/Linear/arrowleft
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+FILL: #D5D8DC | Element: iPhone X Keyboard (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'q' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'w' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'e' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'r' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 't' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'y' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'u' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'i' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'o' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /10 > button /large /letter > Р№
+TEXT: 'p' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'a' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 's' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'd' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'f' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'g' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'h' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'j' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'k' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /9 > button /large /letter > Р№
+TEXT: 'l' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /shift (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > button /large /shift
+FILL: #FFFFFF | Element: icons /shift__active (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > button /large /shift > icons /shift__active
+FILL: #000000 | Element: Vector 4 (Stroke) (Stroke) (VECTOR) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > button /large /shift > icons /shift__active > Vector 4 (Stroke) (Stroke)
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'z' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'x' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'c' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'v' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'b' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'n' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #FFFFFF | Element: button /large /letter (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter
+FILL: #000000 | Element: Р№ (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > letters > button /large /letter > Р№
+TEXT: 'm' | Color: #000000 | Size: 20.884056091308594px 400
+FILL: #B4B8C0 | Element: button /large /backspace (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > button /large /backspace
+FILL: #FFFFFF | Element: icons /backspace (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /7+controls > button /large /backspace > icons /backspace
+STROKE: #000000 (weight: 1.4239130020141602px) | Element: Vector 9
+STROKE: #000000 (weight: 1.4239130020141602px) | Element: Vector 10
+FILL: #B4B8C0 | Element: button /large /shift (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /shift
+FILL: #000000 | Element: 123 (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /shift > 123
+TEXT: '123' | Color: #000000 | Size: 15.663043022155762px 400
+FILL: #B4B8C0 | Element: button /large /smile (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile
+FILL: #FFFFFF | Element: icons /smile (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile > icons /smile
+STROKE: #000000 (weight: 1.0442029237747192px) | Element: Ellipse 6
+FILL: #000000 | Element: Ellipse 7 (ELLIPSE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile > icons /smile > Ellipse 7
+FILL: #000000 | Element: Ellipse 8 (ELLIPSE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile > icons /smile > Ellipse 8
+FILL: #000000 | Element: Subtract (VECTOR) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile > icons /smile > Subtract
+FILL: #FFFFFF | Element: Ellipse 10 (VECTOR) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /smile > icons /smile > Ellipse 10
+FILL: #FFFFFF | Element: button /large /primary (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /primary
+FILL: #000000 | Element: РџСЂРѕР±РµР» (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /primary > РџСЂРѕР±РµР»
+TEXT: 'space' | Color: #000000 | Size: 15.663043022155762px 400
+FILL: #B4B8C0 | Element: button /large /secondary (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /secondary
+FILL: #000000 | Element: РќР°Р№С‚Рё (TEXT) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > large-keys /letters-eng > buttons /large /controls > button /large /secondary > РќР°Р№С‚Рё
+TEXT: 'return' | Color: #000000 | Size: 15.663043022155762px 400
+FILL: #FFFFFF | Element: icons /language__8+ (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > futter-X > button /large /language > icons /language__8+
+STROKE: #51555B (weight: 1.4239130020141602px) | Element: Ellipse 1
+STROKE: #51555B (weight: 1.4239130020141602px) | Element: Ellipse 2
+STROKE: #51555B (weight: 1.4239130020141602px) | Element: Ellipse 3
+STROKE: #51555B (weight: 1.4239130020141602px) | Element: Ellipse 4
+FILL: #FFFFFF | Element: icons /voice-input__8+ (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > futter-X > button /large /voice-input > icons /voice-input__8+
+STROKE: #51555B (weight: 1.6612317562103271px) | Element: Rectangle 498
+STROKE: #51555B (weight: 1.6612317562103271px) | Element: Vector 7
+STROKE: #51555B (weight: 1.6612317562103271px) | Element: Vector 8
+STROKE: #51555B (weight: 1.6612317562103271px) | Element: Ellipse 11
+FILL: #000000 | Element: home-indicator/dark (INSTANCE) | Path: Root > Document > Note App > Notes > iPhone X Keyboard > futter-X > home-indicator/dark
+FILL: #FFCB09 | Element: mingcute:check-fill (FRAME) | Path: Root > Document > Note App > Notes > mingcute:check-fill
+FILL: #FFFFFF | Element: Vector (VECTOR) | Path: Root > Document > Note App > Notes > mingcute:check-fill > Group > Vector
+FILL: #FFFFFF | Element: Notes format (FRAME) | Path: Root > Document > Note App > Notes format
+FILL: #FFDBE4 | Element: Frame 14 (FRAME) | Path: Root > Document > Note App > Notes format > Frame 14
+FILL: #131313 | Element: Shopping list (TEXT) | Path: Root > Document > Note App > Notes format > Frame 14 > Shopping list
+TEXT: 'Shopping list' | Color: #131313 | Size: 14.0px 700
+FILL: #131313 | Element: Rice Pasta Cereal Yogurt Cheese Butter (TEXT) | Path: Root > Document > Note App > Notes format > Frame 14 > Rice Pasta Cereal Yogurt Cheese Butter
+TEXT: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter' | Color: #131313 | Size: 12.0px 400
+FILL: #FFFFFF | Element: Iconsax/Linear/arrowleft (FRAME) | Path: Root > Document > Note App > Notes format > Iconsax/Linear/arrowleft
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/directboxsend (FRAME) | Path: Root > Document > Note App > Notes format > Iconsax/Linear/directboxsend
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/heart (FRAME) | Path: Root > Document > Note App > Notes format > Iconsax/Linear/heart
+FILL: #E73333 | Element: Vector (VECTOR) | Path: Root > Document > Note App > Notes format > Iconsax/Linear/heart > Vector
+FILL: #181818 | Element: Product Management (TEXT) | Path: Root > Document > Note App > Notes format > Product Management
+TEXT: 'Product Management' | Color: #181818 | Size: 40.0px 700
+FILL: #FFF3C7 | Element: Rectangle 8 (RECTANGLE) | Path: Root > Document > Note App > Notes format > Rectangle 8
+STROKE: #FFCB09 (weight: 1.0px) | Element: Rectangle 8
+FILL: #292929 | Element: Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI (TEXT) | Path: Root > Document > Note App > Notes format > Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI
+TEXT: 'Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization.
+
+Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions.
+Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI' | Color: #292929 | Size: 18.0px 400
+FILL: #181818 | Element: Frame 21 (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21
+FILL: #323232 | Element: Iconsax/Linear/textbold (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textbold
+STROKE: #FFFFFF (weight: 2.0px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textitalic (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textitalic
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textunderline (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textunderline
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/text (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/text
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textalignjustifycenter (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textalignjustifycenter
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textalignjustifyleft (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textalignjustifyleft
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textaligncenter (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textaligncenter
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Iconsax/Linear/textalignjustifyright (FRAME) | Path: Root > Document > Note App > Notes format > Frame 21 > Frame 22 > Iconsax/Linear/textalignjustifyright
+STROKE: #B8B8B8 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: fluent:delete-24-regular (FRAME) | Path: Root > Document > Note App > Notes format > fluent:delete-24-regular
+FILL: #000000 | Element: Vector (VECTOR) | Path: Root > Document > Note App > Notes format > fluent:delete-24-regular > Vector
+FILL: #FFFFFF | Element: Inactive (FRAME) | Path: Root > Document > Note App > Inactive
+FILL: #FFFFFF | Element: Iconsax/Linear/heart (FRAME) | Path: Root > Document > Note App > Inactive > Iconsax/Linear/heart
+STROKE: #000000 (weight: 1.50px) | Element: Vector
+FILL: #FFFFFF | Element: Active (FRAME) | Path: Root > Document > Note App > Active
+FILL: #E73333 | Element: Vector (VECTOR) | Path: Root > Document > Note App > Active > Iconsax/Linear/heart > Vector

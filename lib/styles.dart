@@ -53,7 +53,8 @@ enum $GlassColors {
   shadow(ColorToken('glass.shadow')),
 
   neonBlue(ColorToken('glass.neonBlue')),
-  neonPurple(ColorToken('glass.neonPurple'));
+  neonPurple(ColorToken('glass.neonPurple')),
+  neonPink(ColorToken('glass.neonPink'));
 
   const $GlassColors(this.token);
 
@@ -338,6 +339,7 @@ final class LightTheme extends BaseTheme {
         .shadow => const Color(0x14000000),
         .neonBlue => const Color(0xFF4A90E2),
         .neonPurple => const Color(0xFF8B5CF6),
+        .neonPink => const Color(0xFFEC4899),
       },
     for (final $ComponentColors color in $ComponentColors.values)
       color.token: switch (color) {
@@ -373,6 +375,7 @@ final class DarkTheme extends BaseTheme {
         .shadow => const Color(0x66000000),
         .neonBlue => const Color(0xFF60A5FA),
         .neonPurple => const Color(0xFFA78BFA),
+        .neonPink => const Color(0xFFF472B6),
       },
 
     for (final $ComponentColors color in $ComponentColors.values)
