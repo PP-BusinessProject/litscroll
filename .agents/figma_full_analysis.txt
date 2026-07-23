@@ -1,0 +1,1267 @@
+﻿   [CANVAS] LitScroll (0 x 0 px at x:0, y:0)
+     [FRAME] Frame (2820 x 1965 px at x:638, y:48)
+           [FRAME] Frame (360 x 848 px at x:718, y:128)
+           [FRAME] Frame (60 x 60 px at x:868, y:184)
+           [FRAME] Frame (117 x 29 px at x:839, y:259)
+             [TEXT] LitScroll (81 x 24 px at x:857, y:259)
+               -> Text: 'LitScroll'
+               -> Style: Inter 700 20.0px, Align: LEFT
+           [FRAME] Frame (280 x 280 px at x:758, y:312)
+           [FRAME] Frame (94 x 17 px at x:851, y:619)
+             [TEXT] Swipe to explore (95 x 15 px at x:851, y:619)
+               -> Text: 'Swipe to explore'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (286 x 69 px at x:768, y:673)
+             [TEXT] Discover Literature in (252 x 29 px at x:771, y:674)
+               -> Text: 'Discover Literature in'
+               -> Style: Inter 700 24.0px, Align: LEFT
+             [TEXT] Immersive Passages (242 x 29 px at x:778, y:708)
+               -> Text: 'Immersive Passages'
+               -> Style: Inter 700 24.0px, Align: LEFT
+           [FRAME] Frame (312 x 69 px at x:743, y:745)
+             [TEXT] Scroll through beautifully formatted bookВ  (276 x 17 px at x:763, y:745)
+               -> Text: 'Scroll through beautifully formatted bookВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] passages like short-вЂ‹form content. EachВ  (264 x 17 px at x:772, y:765)
+               -> Text: 'passages like short-вЂ‹form content. EachВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] passage is 1-2 pages of immersive reading. (286 x 17 px at x:757, y:785)
+               -> Text: 'passage is 1-2 pages of immersive reading.'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (312 x 56 px at x:742, y:832)
+             [TEXT] Start Reading (107 x 19 px at x:844, y:849)
+               -> Text: 'Start Reading'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (237 x 17 px at x:780, y:903)
+             [TEXT] Curated passages from timeless literature (238 x 15 px at x:780, y:903)
+               -> Text: 'Curated passages from timeless literature'
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [FRAME] Frame (89 x 187 px at x:764, y:396)
+             [FRAME] Frame (45 x 9 px at x:787, y:500)
+             [FRAME] Frame (36 x 8 px at x:793, y:513)
+             [FRAME] Frame (27 x 8 px at x:799, y:525)
+             [FRAME] Frame (27 x 27 px at x:802, y:541)
+             [FRAME] Frame (89 x 187 px at x:943, y:396)
+             [FRAME] Frame (45 x 9 px at x:963, y:500)
+             [FRAME] Frame (36 x 8 px at x:966, y:513)
+             [FRAME] Frame (32 x 8 px at x:967, y:525)
+             [FRAME] Frame (27 x 27 px at x:967, y:541)
+             [FRAME] Frame (85 x 220 px at x:855, y:344)
+             [FRAME] Frame (32 x 32 px at x:882, y:399)
+             [FRAME] Frame (51 x 8 px at x:872, y:443)
+             [FRAME] Frame (46 x 8 px at x:875, y:455)
+             [FRAME] Frame (39 x 8 px at x:878, y:467)
+             [FRAME] Frame (44 x 8 px at x:876, y:479)
+             [FRAME] Frame (51 x 8 px at x:872, y:499)
+             [FRAME] Frame (31 x 8 px at x:882, y:506)
+           [FRAME] Frame (360 x 1805 px at x:3018, y:128)
+           [FRAME] Frame (105 x 26 px at x:3068, y:145)
+             [TEXT] QuoteScroll (105 x 22 px at x:3068, y:145)
+               -> Text: 'QuoteScroll'
+               -> Style: Inter 700 18.0px, Align: LEFT
+           [FRAME] Frame (157 x 29 px at x:3034, y:208)
+             [TEXT] Saved Passages (160 x 24 px at x:3034, y:208)
+               -> Text: 'Saved Passages'
+               -> Style: Inter 700 20.0px, Align: LEFT
+           [FRAME] Frame (123 x 20 px at x:3034, y:240)
+             [TEXT] 24 saved passages (128 x 17 px at x:3034, y:240)
+               -> Text: '24 saved passages'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (125 x 42 px at x:3034, y:281)
+           [FRAME] Frame (91 x 17 px at x:3051, y:295)
+             [TEXT] Recently Saved (91 x 15 px at x:3051, y:295)
+               -> Text: 'Recently Saved'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (83 x 42 px at x:3166, y:281)
+           [FRAME] Frame (49 x 17 px at x:3183, y:295)
+             [TEXT] By Book (48 x 15 px at x:3183, y:295)
+               -> Text: 'By Book'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (74 x 42 px at x:3256, y:281)
+           [FRAME] Frame (40 x 17 px at x:3273, y:295)
+             [TEXT] Oldest (39 x 15 px at x:3273, y:295)
+               -> Text: 'Oldest'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (328 x 280 px at x:3034, y:343)
+           [FRAME] Frame (227 x 169 px at x:3115, y:364)
+             [TEXT] "Perhaps one did not want to beВ  (202 x 16 px at x:3115, y:364)
+               -> Text: '"Perhaps one did not want to beВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] loved so much as to be understood.В  (224 x 16 px at x:3115, y:383)
+               -> Text: 'loved so much as to be understood.В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] The Party told you to reject theВ  (196 x 16 px at x:3115, y:401)
+               -> Text: 'The Party told you to reject theВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] evidence of your eyes and ears. ItВ  (211 x 16 px at x:3115, y:420)
+               -> Text: 'evidence of your eyes and ears. ItВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] was their final, most essentialВ  (186 x 16 px at x:3115, y:438)
+               -> Text: 'was their final, most essentialВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] command. Winston Smith worked atВ  (225 x 16 px at x:3115, y:457)
+               -> Text: 'command. Winston Smith worked atВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] the Ministry of Truth, where his jobВ  (218 x 16 px at x:3115, y:475)
+               -> Text: 'the Ministry of Truth, where his jobВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] was to rewrite history." (141 x 16 px at x:3115, y:494)
+               -> Text: 'was to rewrite history."'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (28 x 17 px at x:3115, y:540)
+             [TEXT] 1984 (30 x 15 px at x:3115, y:540)
+               -> Text: '1984'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (88 x 17 px at x:3150, y:540)
+             [TEXT] В· George Orwell (88 x 15 px at x:3150, y:540)
+               -> Text: 'В· George Orwell'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (105 x 17 px at x:3055, y:583)
+             [TEXT] Saved 2 hours ago (106 x 15 px at x:3055, y:583)
+               -> Text: 'Saved 2 hours ago'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (328 x 280 px at x:3034, y:643)
+           [FRAME] Frame (227 x 149 px at x:3115, y:664)
+             [TEXT] "So we beat on, boats against theВ  (211 x 16 px at x:3115, y:664)
+               -> Text: '"So we beat on, boats against theВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] current, borne back ceaselessly intoВ  (226 x 16 px at x:3115, y:683)
+               -> Text: 'current, borne back ceaselessly intoВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] the past. Gatsby believed in theВ  (199 x 16 px at x:3115, y:701)
+               -> Text: 'the past. Gatsby believed in theВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] green light, the orgastic future thatВ  (219 x 16 px at x:3115, y:720)
+               -> Text: 'green light, the orgastic future thatВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] year by year recedes before us. ItВ  (210 x 16 px at x:3115, y:738)
+               -> Text: 'year by year recedes before us. ItВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] eluded us then, but that's noВ  (180 x 16 px at x:3115, y:757)
+               -> Text: 'eluded us then, but that's noВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] matterвЂ”вЂ‹tomorrow we will run faster,В  (227 x 16 px at x:3115, y:775)
+               -> Text: 'matterвЂ”вЂ‹tomorrow we will run faster,В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] stretch out our arms farther." (178 x 16 px at x:3115, y:794)
+               -> Text: 'stretch out our arms farther."'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (104 x 17 px at x:3115, y:840)
+             [TEXT] The Great Gatsby (103 x 15 px at x:3115, y:840)
+               -> Text: 'The Great Gatsby'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (105 x 17 px at x:3225, y:840)
+             [TEXT] В· F. Scott Fitzgerald (110 x 15 px at x:3225, y:840)
+               -> Text: 'В· F. Scott Fitzgerald'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (93 x 17 px at x:3055, y:883)
+             [TEXT] Saved yesterday (95 x 15 px at x:3055, y:883)
+               -> Text: 'Saved yesterday'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (328 x 302 px at x:3034, y:943)
+           [FRAME] Frame (227 x 191 px at x:3115, y:964)
+             [TEXT] "If you only read the books thatВ  (197 x 16 px at x:3115, y:964)
+               -> Text: '"If you only read the books thatВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] everyone else is reading, you canВ  (209 x 16 px at x:3115, y:983)
+               -> Text: 'everyone else is reading, you canВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] only think what everyone else isВ  (200 x 16 px at x:3115, y:1001)
+               -> Text: 'only think what everyone else isВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] thinking. Don't you think it'sВ  (174 x 16 px at x:3115, y:1020)
+               -> Text: 'thinking. Don't you think it'sВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] important to read books that no oneВ  (226 x 16 px at x:3115, y:1038)
+               -> Text: 'important to read books that no oneВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] else is reading? To think thoughtsВ  (210 x 16 px at x:3115, y:1057)
+               -> Text: 'else is reading? To think thoughtsВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] that no one else is thinking? That'sВ  (217 x 16 px at x:3115, y:1075)
+               -> Text: 'that no one else is thinking? That'sВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] what makes you different fromВ  (192 x 16 px at x:3115, y:1094)
+               -> Text: 'what makes you different fromВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] everyone else." (94 x 16 px at x:3115, y:1113)
+               -> Text: 'everyone else."'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (105 x 17 px at x:3115, y:1161)
+             [TEXT] Norwegian Wood (101 x 15 px at x:3115, y:1161)
+               -> Text: 'Norwegian Wood'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (105 x 17 px at x:3226, y:1161)
+             [TEXT] В· Haruki Murakami (102 x 15 px at x:3226, y:1161)
+               -> Text: 'В· Haruki Murakami'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (99 x 17 px at x:3055, y:1204)
+             [TEXT] Saved 3 days ago (101 x 15 px at x:3055, y:1204)
+               -> Text: 'Saved 3 days ago'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (328 x 280 px at x:3034, y:1264)
+           [FRAME] Frame (227 x 169 px at x:3115, y:1285)
+             [TEXT] "Freeing yourself was one thing,В  (202 x 16 px at x:3115, y:1285)
+               -> Text: '"Freeing yourself was one thing,В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] claiming ownership of that freed selfВ  (228 x 16 px at x:3115, y:1304)
+               -> Text: 'claiming ownership of that freed selfВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] was another. She had to get throughВ  (229 x 16 px at x:3115, y:1322)
+               -> Text: 'was another. She had to get throughВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] the days somehow, and the nightsВ  (214 x 16 px at x:3115, y:1341)
+               -> Text: 'the days somehow, and the nightsВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] were even harder. The past was aВ  (211 x 16 px at x:3115, y:1359)
+               -> Text: 'were even harder. The past was aВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] weight she carried everywhere, butВ  (221 x 16 px at x:3115, y:1378)
+               -> Text: 'weight she carried everywhere, butВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] she was learning to set it down,В  (199 x 16 px at x:3115, y:1396)
+               -> Text: 'she was learning to set it down,В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] piece by piece." (97 x 16 px at x:3115, y:1415)
+               -> Text: 'piece by piece."'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (49 x 17 px at x:3115, y:1461)
+             [TEXT] Beloved (48 x 15 px at x:3115, y:1461)
+               -> Text: 'Beloved'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (86 x 17 px at x:3170, y:1461)
+             [TEXT] В· Toni Morrison (84 x 15 px at x:3170, y:1461)
+               -> Text: 'В· Toni Morrison'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (99 x 17 px at x:3055, y:1504)
+             [TEXT] Saved 5 days ago (101 x 15 px at x:3055, y:1504)
+               -> Text: 'Saved 5 days ago'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (328 x 280 px at x:3034, y:1564)
+           [FRAME] Frame (227 x 169 px at x:3115, y:1585)
+             [TEXT] "I opened myself to the gentleВ  (189 x 16 px at x:3115, y:1585)
+               -> Text: '"I opened myself to the gentleВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] indifference of the world. Finding itВ  (219 x 16 px at x:3115, y:1604)
+               -> Text: 'indifference of the world. Finding itВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] so much like myselfвЂ”вЂ‹so like aВ  (187 x 16 px at x:3115, y:1622)
+               -> Text: 'so much like myselfвЂ”вЂ‹so like aВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] brother, reallyвЂ”вЂ‹I felt that I had beenВ  (225 x 16 px at x:3115, y:1641)
+               -> Text: 'brother, reallyвЂ”вЂ‹I felt that I had beenВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] happy and that I was happy again.В  (214 x 16 px at x:3115, y:1659)
+               -> Text: 'happy and that I was happy again.В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] For everything to be consummated,В  (223 x 16 px at x:3115, y:1678)
+               -> Text: 'For everything to be consummated,В '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] for me to feel less alone, I had onlyВ  (218 x 16 px at x:3115, y:1696)
+               -> Text: 'for me to feel less alone, I had onlyВ '
+               -> Style: Inter 400 13.0px, Align: LEFT
+             [TEXT] to wish." (52 x 16 px at x:3115, y:1715)
+               -> Text: 'to wish."'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (78 x 17 px at x:3115, y:1761)
+             [TEXT] The Stranger (77 x 15 px at x:3115, y:1761)
+               -> Text: 'The Stranger'
+               -> Style: Inter 700 12.0px, Align: LEFT
+           [FRAME] Frame (83 x 17 px at x:3200, y:1761)
+             [TEXT] В· Albert Camus (84 x 15 px at x:3200, y:1761)
+               -> Text: 'В· Albert Camus'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (101 x 17 px at x:3055, y:1804)
+             [TEXT] Saved 1 week ago (103 x 15 px at x:3055, y:1804)
+               -> Text: 'Saved 1 week ago'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (360 x 1452 px at x:2558, y:128)
+           [FRAME] Frame (105 x 26 px at x:2608, y:145)
+             [TEXT] QuoteScroll (105 x 22 px at x:2608, y:145)
+               -> Text: 'QuoteScroll'
+               -> Style: Inter 700 18.0px, Align: LEFT
+           [FRAME] Frame (166 x 236 px at x:2655, y:213)
+           [FRAME] Frame (164 x 234 px at x:2656, y:214)
+           [FRAME] Frame (236 x 29 px at x:2620, y:472)
+             [TEXT] Letters to a Young Poet (227 x 24 px at x:2621, y:472)
+               -> Text: 'Letters to a Young Poet'
+               -> Style: Inter 700 20.0px, Align: LEFT
+           [FRAME] Frame (129 x 20 px at x:2674, y:504)
+             [TEXT] Rainer Maria Rilke (123 x 17 px at x:2674, y:504)
+               -> Text: 'Rainer Maria Rilke'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (28 x 17 px at x:2633, y:540)
+             [TEXT] 1929 (28 x 15 px at x:2633, y:540)
+               -> Text: '1929'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (63 x 17 px at x:2701, y:540)
+             [TEXT] Philosophy (62 x 15 px at x:2702, y:540)
+               -> Text: 'Philosophy'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (40 x 17 px at x:2803, y:540)
+             [TEXT] Letters (41 x 15 px at x:2804, y:540)
+               -> Text: 'Letters'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (320 x 257 px at x:2578, y:581)
+           [FRAME] Frame (115 x 20 px at x:2594, y:598)
+             [TEXT] About This Book (113 x 17 px at x:2594, y:598)
+               -> Text: 'About This Book'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (286 x 195 px at x:2595, y:626)
+             [TEXT] A profound collection of ten letters writtenВ  (244 x 15 px at x:2595, y:626)
+               -> Text: 'A profound collection of ten letters writtenВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] between 1903 and 1908 by the poet Rainer MariaВ  (283 x 15 px at x:2595, y:643)
+               -> Text: 'between 1903 and 1908 by the poet Rainer MariaВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] Rilke to a young aspiring writer. The letters exploreВ  (291 x 15 px at x:2595, y:660)
+               -> Text: 'Rilke to a young aspiring writer. The letters exploreВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] solitude, creativity, love, and the meaning ofВ  (254 x 15 px at x:2595, y:677)
+               -> Text: 'solitude, creativity, love, and the meaning ofВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] artistic life. The tone is intimate, contemplative,В  (272 x 15 px at x:2595, y:695)
+               -> Text: 'artistic life. The tone is intimate, contemplative,В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] and deeply encouraging вЂ” a timeless guide forВ  (271 x 15 px at x:2595, y:712)
+               -> Text: 'and deeply encouraging вЂ” a timeless guide forВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] anyone seeking purpose through self-вЂ‹expression.В  (284 x 15 px at x:2595, y:729)
+               -> Text: 'anyone seeking purpose through self-вЂ‹expression.В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] You'll read 1-2 page passages from each letter,В  (269 x 15 px at x:2595, y:746)
+               -> Text: 'You'll read 1-2 page passages from each letter,В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] carefully selected to capture the essence of Rilke'sВ  (292 x 15 px at x:2595, y:763)
+               -> Text: 'carefully selected to capture the essence of Rilke'sВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] wisdom. (48 x 15 px at x:2595, y:780)
+               -> Text: 'wisdom.'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (228 x 20 px at x:2578, y:858)
+             [TEXT] Sample Passages from This Book (227 x 17 px at x:2578, y:858)
+               -> Text: 'Sample Passages from This Book'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (320 x 171 px at x:2578, y:890)
+           [FRAME] Frame (286 x 120 px at x:2595, y:907)
+             [TEXT] "Perhaps all the dragons in our lives areВ  (228 x 15 px at x:2595, y:907)
+               -> Text: '"Perhaps all the dragons in our lives areВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] princesses who are only waiting to see us act, justВ  (289 x 15 px at x:2595, y:924)
+               -> Text: 'princesses who are only waiting to see us act, justВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] once, with beauty and courage. PerhapsВ  (233 x 15 px at x:2595, y:941)
+               -> Text: 'once, with beauty and courage. PerhapsВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] everything that frightens us is, in its deepestВ  (256 x 15 px at x:2595, y:958)
+               -> Text: 'everything that frightens us is, in its deepestВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] essence, something helpless that wants our love.В  (283 x 15 px at x:2595, y:976)
+               -> Text: 'essence, something helpless that wants our love.В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] So you mustn't be frightened if a sadness rises inВ  (283 x 15 px at x:2595, y:993)
+               -> Text: 'So you mustn't be frightened if a sadness rises inВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] front of you, larger than any you have ever seen." (278 x 15 px at x:2595, y:1010)
+               -> Text: 'front of you, larger than any you have ever seen."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (320 x 151 px at x:2578, y:1072)
+           [FRAME] Frame (286 x 103 px at x:2595, y:1089)
+             [TEXT] "The only journey is the one within. We must goВ  (273 x 15 px at x:2595, y:1089)
+               -> Text: '"The only journey is the one within. We must goВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] into ourselves and discover the depths of our ownВ  (288 x 15 px at x:2595, y:1106)
+               -> Text: 'into ourselves and discover the depths of our ownВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] being. There is no other path to understanding theВ  (290 x 15 px at x:2595, y:1123)
+               -> Text: 'being. There is no other path to understanding theВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] world around us. Everything we seek externallyВ  (271 x 15 px at x:2595, y:1140)
+               -> Text: 'world around us. Everything we seek externallyВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] must first be found in the quiet chambers of ourВ  (275 x 15 px at x:2595, y:1158)
+               -> Text: 'must first be found in the quiet chambers of ourВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] own heart, where truth resides in its purest form." (281 x 15 px at x:2595, y:1175)
+               -> Text: 'own heart, where truth resides in its purest form."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (320 x 151 px at x:2578, y:1235)
+           [FRAME] Frame (286 x 117 px at x:2595, y:1252)
+             [TEXT] "Go into yourself. Find out the reason thatВ  (240 x 15 px at x:2595, y:1252)
+               -> Text: '"Go into yourself. Find out the reason thatВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] commands you to write; see whether it has spreadВ  (290 x 15 px at x:2595, y:1269)
+               -> Text: 'commands you to write; see whether it has spreadВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] its roots into the very depths of your heart;В  (248 x 15 px at x:2595, y:1286)
+               -> Text: 'its roots into the very depths of your heart;В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] confess to yourself whether you would have to dieВ  (289 x 15 px at x:2595, y:1303)
+               -> Text: 'confess to yourself whether you would have to dieВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] if you were forbidden to write. This most of all: askВ  (290 x 15 px at x:2595, y:1321)
+               -> Text: 'if you were forbidden to write. This most of all: askВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] yourself in the most silent hour of your night:В  (257 x 15 px at x:2595, y:1338)
+               -> Text: 'yourself in the most silent hour of your night:В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] must I write?" (78 x 15 px at x:2595, y:1355)
+               -> Text: 'must I write?"'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (153 x 64 px at x:2578, y:1406)
+             [TEXT] Read PassagesВ  (107 x 17 px at x:2603, y:1418)
+               -> Text: 'Read PassagesВ '
+               -> Style: Inter 700 14.0px, Align: LEFT
+             [TEXT] from This Book (103 x 17 px at x:2602, y:1438)
+               -> Text: 'from This Book'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (155 x 64 px at x:2743, y:1406)
+             [TEXT] Back to Stream (104 x 17 px at x:2768, y:1428)
+               -> Text: 'Back to Stream'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (360 x 1276 px at x:2098, y:128)
+           [FRAME] Frame (105 x 26 px at x:2148, y:145)
+             [TEXT] LitScroll (73 x 22 px at x:2148, y:145)
+               -> Text: 'LitScroll'
+               -> Style: Inter 700 18.0px, Align: LEFT
+           [FRAME] Frame (328 x 969 px at x:2114, y:205)
+           [FRAME] Frame (279 x 122 px at x:2139, y:230)
+             [TEXT] The studio was filled with the rich odour ofВ  (308 x 18 px at x:2139, y:230)
+               -> Text: 'The studio was filled with the rich odour ofВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] roses, and when the light summer wind stirredВ  (333 x 18 px at x:2139, y:250)
+               -> Text: 'roses, and when the light summer wind stirredВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] amidst the trees of the garden, there cameВ  (309 x 18 px at x:2139, y:271)
+               -> Text: 'amidst the trees of the garden, there cameВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] through the open door the heavy scent of theВ  (328 x 18 px at x:2139, y:291)
+               -> Text: 'through the open door the heavy scent of theВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] lilac, or the more delicate perfume of the pink-вЂ‹ (329 x 18 px at x:2139, y:311)
+               -> Text: 'lilac, or the more delicate perfume of the pink-вЂ‹'
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] flowering thorn. (112 x 18 px at x:2139, y:332)
+               -> Text: 'flowering thorn.'
+               -> Style: Inter 400 15.0px, Align: LEFT
+           [FRAME] Frame (279 x 163 px at x:2139, y:392)
+             [TEXT] From the corner of the divan of Persian saddle-вЂ‹ (336 x 18 px at x:2139, y:392)
+               -> Text: 'From the corner of the divan of Persian saddle-вЂ‹'
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] bags on which he was lying, smoking, as was hisВ  (349 x 18 px at x:2139, y:412)
+               -> Text: 'bags on which he was lying, smoking, as was hisВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] custom, innumerable cigarettes, Lord HenryВ  (315 x 18 px at x:2139, y:433)
+               -> Text: 'custom, innumerable cigarettes, Lord HenryВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] Wotton could just catch the gleam of the honey-вЂ‹ (343 x 18 px at x:2139, y:453)
+               -> Text: 'Wotton could just catch the gleam of the honey-вЂ‹'
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] sweet and honey-вЂ‹coloured blossoms of aВ  (297 x 18 px at x:2139, y:473)
+               -> Text: 'sweet and honey-вЂ‹coloured blossoms of aВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] laburnum, whose tremulous branches seemedВ  (331 x 18 px at x:2139, y:494)
+               -> Text: 'laburnum, whose tremulous branches seemedВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] hardly able to bear the burden of a beauty soВ  (325 x 18 px at x:2139, y:514)
+               -> Text: 'hardly able to bear the burden of a beauty soВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] flamelike as theirs. (132 x 18 px at x:2139, y:534)
+               -> Text: 'flamelike as theirs.'
+               -> Style: Inter 400 15.0px, Align: LEFT
+           [FRAME] Frame (279 x 183 px at x:2139, y:603)
+             [TEXT] And now and then the fantastic shadows ofВ  (313 x 18 px at x:2139, y:603)
+               -> Text: 'And now and then the fantastic shadows ofВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] birds in flight flitted across the long tussore-вЂ‹silkВ  (343 x 18 px at x:2139, y:623)
+               -> Text: 'birds in flight flitted across the long tussore-вЂ‹silkВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] curtains that were stretched in front of the hugeВ  (346 x 18 px at x:2139, y:644)
+               -> Text: 'curtains that were stretched in front of the hugeВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] window, producing a kind of momentaryВ  (288 x 18 px at x:2139, y:664)
+               -> Text: 'window, producing a kind of momentaryВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] Japanese effect, and making him think of thoseВ  (341 x 18 px at x:2139, y:684)
+               -> Text: 'Japanese effect, and making him think of thoseВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] pallid, jade-вЂ‹faced painters of Tokyo who,В  (293 x 18 px at x:2139, y:705)
+               -> Text: 'pallid, jade-вЂ‹faced painters of Tokyo who,В '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] through the medium of an art that is necessarilyВ  (345 x 18 px at x:2139, y:725)
+               -> Text: 'through the medium of an art that is necessarilyВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] immobile, seek to convey the sense of swiftnessВ  (348 x 18 px at x:2139, y:746)
+               -> Text: 'immobile, seek to convey the sense of swiftnessВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] and motion. (84 x 18 px at x:2139, y:766)
+               -> Text: 'and motion.'
+               -> Style: Inter 400 15.0px, Align: LEFT
+           [FRAME] Frame (279 x 122 px at x:2139, y:850)
+             [TEXT] The sullen murmur of the bees shouldering theirВ  (345 x 18 px at x:2139, y:850)
+               -> Text: 'The sullen murmur of the bees shouldering theirВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] way through the long unmown grass, or circlingВ  (341 x 18 px at x:2139, y:870)
+               -> Text: 'way through the long unmown grass, or circlingВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] with monotonous insistence round the dusty giltВ  (346 x 18 px at x:2139, y:891)
+               -> Text: 'with monotonous insistence round the dusty giltВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] horns of the straggling woodbine, seemed toВ  (323 x 18 px at x:2139, y:911)
+               -> Text: 'horns of the straggling woodbine, seemed toВ '
+               -> Style: Inter 400 15.0px, Align: LEFT
+             [TEXT] make the stillness more oppressive. (253 x 18 px at x:2139, y:931)
+               -> Text: 'make the stillness more oppressive.'
+               -> Style: Inter 400 15.0px, Align: LEFT
+           [FRAME] Frame (90 x 19 px at x:2233, y:1008)
+             [TEXT] вЂ” Oscar Wilde (91 x 16 px at x:2233, y:1008)
+               -> Text: 'вЂ” Oscar Wilde'
+               -> Style: Inter 400 13.0px, Align: LEFT
+           [FRAME] Frame (63 x 17 px at x:2246, y:1035)
+             [TEXT] Page 1 of 2 (64 x 15 px at x:2246, y:1035)
+               -> Text: 'Page 1 of 2'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (37 x 20 px at x:2275, y:1098)
+             [TEXT] 2,481 (39 x 17 px at x:2275, y:1098)
+               -> Text: '2,481'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (8 x 8 px at x:2244, y:1140)
+           [FRAME] Frame (8 x 8 px at x:2264, y:1140)
+           [FRAME] Frame (8 x 8 px at x:2284, y:1140)
+           [FRAME] Frame (8 x 8 px at x:2304, y:1140)
+           [FRAME] Frame (328 x 98 px at x:2114, y:1189)
+           [FRAME] Frame (155 x 20 px at x:2187, y:1208)
+             [TEXT] Continue this passage (154 x 17 px at x:2187, y:1208)
+               -> Text: 'Continue this passage'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (105 x 17 px at x:2187, y:1231)
+             [TEXT] Oscar Wilde В· 1890 (107 x 15 px at x:2187, y:1231)
+               -> Text: 'Oscar Wilde В· 1890'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (77 x 17 px at x:2187, y:1251)
+             [TEXT] Gothic Fiction (79 x 15 px at x:2187, y:1251)
+               -> Text: 'Gothic Fiction'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (148 x 17 px at x:2196, y:1302)
+             [TEXT] Swipe up for next passage (151 x 15 px at x:2196, y:1302)
+               -> Text: 'Swipe up for next passage'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (360 x 1636 px at x:1638, y:128)
+           [FRAME] Frame (105 x 26 px at x:1688, y:147)
+             [TEXT] LitScroll (73 x 22 px at x:1690, y:147)
+               -> Text: 'LitScroll'
+               -> Style: Inter 700 18.0px, Align: LEFT
+           [FRAME] Frame (328 x 60 px at x:1654, y:205)
+             [TEXT] Start Reading Passages (209 x 22 px at x:1729, y:222)
+               -> Text: 'Start Reading Passages'
+               -> Style: Inter 700 18.0px, Align: LEFT
+           [FRAME] Frame (125 x 20 px at x:1654, y:314)
+             [TEXT] Continue Reading (122 x 17 px at x:1654, y:314)
+               -> Text: 'Continue Reading'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (160 x 231 px at x:1654, y:346)
+           [FRAME] Frame (142 x 8 px at x:1663, y:493)
+           [FRAME] Frame (92 x 8 px at x:1663, y:493)
+           [FRAME] Frame (142 x 45 px at x:1663, y:505)
+             [TEXT] "When you wantВ  (96 x 15 px at x:1663, y:505)
+               -> Text: '"When you wantВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] something, all theВ  (105 x 15 px at x:1663, y:522)
+               -> Text: 'something, all theВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] universe conspires..." (120 x 15 px at x:1663, y:539)
+               -> Text: 'universe conspires..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (86 x 13 px at x:1663, y:554)
+             [TEXT] The Alchemist вЂў 65% (90 x 11 px at x:1663, y:554)
+               -> Text: 'The Alchemist вЂў 65%'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (157 x 231 px at x:1825, y:346)
+           [FRAME] Frame (139 x 8 px at x:1834, y:493)
+           [FRAME] Frame (59 x 8 px at x:1834, y:493)
+           [FRAME] Frame (140 x 45 px at x:1834, y:505)
+             [TEXT] "You have power overВ  (127 x 15 px at x:1834, y:505)
+               -> Text: '"You have power overВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] your mindвЂ”вЂ‹not outsideВ  (136 x 15 px at x:1834, y:522)
+               -> Text: 'your mindвЂ”вЂ‹not outsideВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] events..." (52 x 15 px at x:1834, y:539)
+               -> Text: 'events..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (77 x 13 px at x:1834, y:554)
+             [TEXT] Meditations вЂў 42% (79 x 11 px at x:1834, y:554)
+               -> Text: 'Meditations вЂў 42%'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (328 x 8 px at x:1654, y:616)
+           [FRAME] Frame (70 x 23 px at x:1654, y:667)
+             [TEXT] Discover (70 x 19 px at x:1654, y:667)
+               -> Text: 'Discover'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (132 x 20 px at x:1654, y:706)
+             [TEXT] Recommendations (129 x 17 px at x:1654, y:706)
+               -> Text: 'Recommendations'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (140 x 234 px at x:1654, y:738)
+           [FRAME] Frame (123 x 45 px at x:1663, y:885)
+             [TEXT] "Everything can beВ  (111 x 15 px at x:1663, y:885)
+               -> Text: '"Everything can beВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] taken from a manВ  (103 x 15 px at x:1663, y:902)
+               -> Text: 'taken from a manВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] but one thing..." (90 x 15 px at x:1663, y:919)
+               -> Text: 'but one thing..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (36 x 13 px at x:1663, y:934)
+             [TEXT] V. Frankl (37 x 11 px at x:1663, y:934)
+               -> Text: 'V. Frankl'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 234 px at x:1806, y:738)
+           [FRAME] Frame (123 x 60 px at x:1815, y:885)
+             [TEXT] "Your pain is theВ  (96 x 15 px at x:1815, y:885)
+               -> Text: '"Your pain is theВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] breaking of the shellВ  (119 x 15 px at x:1815, y:902)
+               -> Text: 'breaking of the shellВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] that encloses yourВ  (109 x 15 px at x:1815, y:919)
+               -> Text: 'that encloses yourВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] understanding..." (96 x 15 px at x:1815, y:936)
+               -> Text: 'understanding..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (52 x 13 px at x:1815, y:949)
+             [TEXT] The Prophet (53 x 11 px at x:1815, y:949)
+               -> Text: 'The Prophet'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 234 px at x:1958, y:738)
+           [FRAME] Frame (123 x 45 px at x:1967, y:885)
+             [TEXT] "We did notВ  (70 x 15 px at x:1967, y:885)
+               -> Text: '"We did notВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] domesticate wheat. ItВ  (127 x 15 px at x:1967, y:902)
+               -> Text: 'domesticate wheat. ItВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] domesticated us..." (109 x 15 px at x:1967, y:919)
+               -> Text: 'domesticated us..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (33 x 13 px at x:1967, y:934)
+             [TEXT] Sapiens (34 x 11 px at x:1967, y:934)
+               -> Text: 'Sapiens'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (55 x 20 px at x:1654, y:1004)
+             [TEXT] Popular (53 x 17 px at x:1654, y:1004)
+               -> Text: 'Popular'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1654, y:1036)
+           [FRAME] Frame (123 x 45 px at x:1663, y:1183)
+             [TEXT] "A man can beВ  (85 x 15 px at x:1663, y:1183)
+               -> Text: '"A man can beВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] destroyed but notВ  (105 x 15 px at x:1663, y:1200)
+               -> Text: 'destroyed but notВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] defeated..." (65 x 15 px at x:1663, y:1217)
+               -> Text: 'defeated..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (51 x 13 px at x:1663, y:1232)
+             [TEXT] Hemingway (50 x 11 px at x:1663, y:1232)
+               -> Text: 'Hemingway'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1806, y:1036)
+           [FRAME] Frame (123 x 75 px at x:1815, y:1183)
+             [TEXT] "You do not rise toВ  (109 x 15 px at x:1815, y:1183)
+               -> Text: '"You do not rise toВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] the level of yourВ  (95 x 15 px at x:1815, y:1200)
+               -> Text: 'the level of yourВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] goals. You fall to theВ  (119 x 15 px at x:1815, y:1217)
+               -> Text: 'goals. You fall to theВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] level of yourВ  (73 x 15 px at x:1815, y:1234)
+               -> Text: 'level of yourВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] systems..." (61 x 15 px at x:1815, y:1252)
+               -> Text: 'systems..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (59 x 13 px at x:1815, y:1262)
+             [TEXT] Atomic Habits (60 x 11 px at x:1815, y:1262)
+               -> Text: 'Atomic Habits'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1958, y:1036)
+           [FRAME] Frame (123 x 45 px at x:1967, y:1183)
+             [TEXT] "It is only with theВ  (105 x 15 px at x:1967, y:1183)
+               -> Text: '"It is only with theВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] heart that one canВ  (108 x 15 px at x:1967, y:1200)
+               -> Text: 'heart that one canВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] see rightly..." (73 x 15 px at x:1967, y:1217)
+               -> Text: 'see rightly..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (68 x 13 px at x:1967, y:1232)
+             [TEXT] The Little Prince (70 x 11 px at x:1967, y:1232)
+               -> Text: 'The Little Prince'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (328 x 8 px at x:1654, y:1324)
+           [FRAME] Frame (93 x 20 px at x:1654, y:1374)
+             [TEXT] Explore More (90 x 17 px at x:1654, y:1374)
+               -> Text: 'Explore More'
+               -> Style: Inter 700 14.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1654, y:1406)
+           [FRAME] Frame (123 x 60 px at x:1663, y:1553)
+             [TEXT] "War is peace.В  (85 x 15 px at x:1663, y:1553)
+               -> Text: '"War is peace.В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] Freedom is slavery.В  (113 x 15 px at x:1663, y:1570)
+               -> Text: 'Freedom is slavery.В '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] Ignorance isВ  (73 x 15 px at x:1663, y:1587)
+               -> Text: 'Ignorance isВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] strength..." (62 x 15 px at x:1663, y:1604)
+               -> Text: 'strength..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (21 x 13 px at x:1663, y:1617)
+             [TEXT] 1984 (22 x 11 px at x:1663, y:1617)
+               -> Text: '1984'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1806, y:1406)
+           [FRAME] Frame (123 x 75 px at x:1815, y:1553)
+             [TEXT] "If you were bornВ  (101 x 15 px at x:1815, y:1553)
+               -> Text: '"If you were bornВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] with the weakness toВ  (125 x 15 px at x:1815, y:1570)
+               -> Text: 'with the weakness toВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] fall you were bornВ  (105 x 15 px at x:1815, y:1587)
+               -> Text: 'fall you were bornВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] with the strength toВ  (116 x 15 px at x:1815, y:1604)
+               -> Text: 'with the strength toВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] rise..." (35 x 15 px at x:1815, y:1622)
+               -> Text: 'rise..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (66 x 13 px at x:1815, y:1632)
+             [TEXT] Milk and Honey (66 x 11 px at x:1815, y:1632)
+               -> Text: 'Milk and Honey'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (140 x 249 px at x:1958, y:1406)
+           [FRAME] Frame (123 x 45 px at x:1967, y:1553)
+             [TEXT] "In the midst ofВ  (90 x 15 px at x:1967, y:1553)
+               -> Text: '"In the midst ofВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] chaos, there is alsoВ  (113 x 15 px at x:1967, y:1570)
+               -> Text: 'chaos, there is alsoВ '
+               -> Style: Inter 400 12.0px, Align: LEFT
+             [TEXT] opportunity..." (80 x 15 px at x:1967, y:1587)
+               -> Text: 'opportunity..."'
+               -> Style: Inter 400 12.0px, Align: LEFT
+           [FRAME] Frame (61 x 13 px at x:1967, y:1602)
+             [TEXT] The Art of War (63 x 11 px at x:1967, y:1602)
+               -> Text: 'The Art of War'
+               -> Style: Inter 400 9.0px, Align: LEFT
+           [FRAME] Frame (360 x 923 px at x:1178, y:128)
+           [FRAME] Frame (117 x 29 px at x:1318, y:172)
+             [TEXT] LitScroll (81 x 24 px at x:1318, y:172)
+               -> Text: 'LitScroll'
+               -> Style: Inter 700 20.0px, Align: LEFT
+           [FRAME] Frame (256 x 20 px at x:1230, y:232)
+             [TEXT] Discover how reading feels reimagined (256 x 17 px at x:1230, y:232)
+               -> Text: 'Discover how reading feels reimagined'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (312 x 208 px at x:1202, y:284)
+           [FRAME] Frame (40 x 40 px at x:1223, y:305)
+           [FRAME] Frame (208 x 23 px at x:1275, y:314)
+             [TEXT] Read Immersive Passages (204 x 19 px at x:1275, y:314)
+               -> Text: 'Read Immersive Passages'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (270 x 114 px at x:1223, y:357)
+             [TEXT] Experience literature in 1-2 pageВ  (218 x 17 px at x:1223, y:357)
+               -> Text: 'Experience literature in 1-2 pageВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] passages designed for focused reading.В  (269 x 17 px at x:1223, y:377)
+               -> Text: 'passages designed for focused reading.В '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] Swipe vertically through beautifullyВ  (237 x 17 px at x:1223, y:397)
+               -> Text: 'Swipe vertically through beautifullyВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] formatted excerpts вЂ” each one aВ  (225 x 17 px at x:1223, y:417)
+               -> Text: 'formatted excerpts вЂ” each one aВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] complete moment from great books. (241 x 17 px at x:1223, y:437)
+               -> Text: 'complete moment from great books.'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (312 x 185 px at x:1202, y:511)
+           [FRAME] Frame (40 x 40 px at x:1223, y:532)
+           [FRAME] Frame (167 x 23 px at x:1275, y:541)
+             [TEXT] Personalized For You (164 x 19 px at x:1275, y:541)
+               -> Text: 'Personalized For You'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (270 x 80 px at x:1223, y:584)
+             [TEXT] Browse categories tailored to your tasteВ  (269 x 17 px at x:1223, y:584)
+               -> Text: 'Browse categories tailored to your tasteВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] вЂ” viewed recently, recommendations,В  (257 x 17 px at x:1223, y:604)
+               -> Text: 'вЂ” viewed recently, recommendations,В '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] random discoveries, and trendingВ  (225 x 17 px at x:1223, y:624)
+               -> Text: 'random discoveries, and trendingВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] popular passages all in one elegant feed. (271 x 17 px at x:1223, y:644)
+               -> Text: 'popular passages all in one elegant feed.'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (312 x 163 px at x:1202, y:716)
+           [FRAME] Frame (40 x 40 px at x:1223, y:737)
+           [FRAME] Frame (113 x 23 px at x:1274, y:746)
+             [TEXT] Save & Collect (113 x 19 px at x:1274, y:746)
+               -> Text: 'Save & Collect'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (270 x 69 px at x:1223, y:789)
+             [TEXT] Engage with passages socially вЂ” tap toВ  (267 x 17 px at x:1223, y:789)
+               -> Text: 'Engage with passages socially вЂ” tap toВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] save, build your personal library, and seeВ  (274 x 17 px at x:1223, y:809)
+               -> Text: 'save, build your personal library, and seeВ '
+               -> Style: Inter 400 14.0px, Align: LEFT
+             [TEXT] what resonates with readers worldwide. (265 x 17 px at x:1223, y:829)
+               -> Text: 'what resonates with readers worldwide.'
+               -> Style: Inter 400 14.0px, Align: LEFT
+           [FRAME] Frame (312 x 56 px at x:1202, y:919)
+             [FRAME] Frame 1 (100 x 100 px at x:1181, y:900)
+             [TEXT] Begin Reading (113 x 19 px at x:1301, y:936)
+               -> Text: 'Begin Reading'
+               -> Style: Inter 700 16.0px, Align: LEFT
+           [FRAME] Frame (113 x 20 px at x:1301, y:990)
+             [TEXT] Back to Welcome (115 x 17 px at x:1301, y:990)
+               -> Text: 'Back to Welcome'
+               -> Style: Inter 400 14.0px, Align: LEFT
+   [CANVAS] Price App (0 x 0 px at x:0, y:0)
+     [FRAME] Group (412 x 917 px at x:721, y:-164)
+       -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=40.0, Bottom=40.0, Left=32.0, Right=32.0
+       [TEXT] < Back (348 x 58 px at x:753, y:-124)
+         -> Text: '< Back'
+         -> Style: Inter 400 48.0px, Align: LEFT
+       [TEXT] LIST 1 (348 x 58 px at x:753, y:-3)
+         -> Text: 'LIST 1'
+         -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Frame 19 (348 x 346 px at x:753, y:118)
+         -> AutoLayout: VERTICAL, Gap: 32.0px, Padding: Top=, Bottom=, Left=, Right=
+         [FRAME] Frame 17 (348 x 96 px at x:753, y:118)
+           -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 15 (348 x 96 px at x:753, y:118)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 13 (348 x 96 px at x:753, y:118)
+               -> AutoLayout: HORIZONTAL, Gap: 29.0px, Padding: Top=16.0, Bottom=16.0, Left=12.0, Right=12.0
+         [FRAME] Frame 18 (348 x 96 px at x:753, y:246)
+           -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 15 (348 x 96 px at x:753, y:246)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 13 (348 x 96 px at x:753, y:246)
+               -> AutoLayout: HORIZONTAL, Gap: 29.0px, Padding: Top=16.0, Bottom=16.0, Left=12.0, Right=12.0
+         [FRAME] Frame 19 (348 x 90 px at x:753, y:374)
+           -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 15 (348 x 90 px at x:753, y:374)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 13 (348 x 90 px at x:753, y:374)
+               -> AutoLayout: HORIZONTAL, Gap: 29.0px, Padding: Top=16.0, Bottom=16.0, Left=12.0, Right=12.0
+       [TEXT] Total: 100$ (348 x 58 px at x:753, y:528)
+         -> Text: 'Total: 100$'
+         -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Frame 11 (348 x 64 px at x:753, y:649)
+         [TEXT] SAVE (121 x 58 px at x:867, y:652)
+           -> Text: 'SAVE'
+           -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Group (Edit amount) (412 x 917 px at x:721, y:843)
+         -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=32.0, Bottom=32.0, Left=32.0, Right=32.0
+         [TEXT] < List Title (348 x 58 px at x:753, y:875)
+           -> Text: '< List Title'
+           -> Style: Inter 400 48.0px, Align: LEFT
+         [FRAME] Frame 19 (348 x 224 px at x:753, y:1077)
+           -> AutoLayout: VERTICAL, Gap: 32.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 17 (348 x 96 px at x:753, y:1077)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 15 (348 x 96 px at x:753, y:1077)
+               -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 18 (348 x 96 px at x:753, y:1205)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 15 (348 x 96 px at x:753, y:1205)
+               -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+         [TEXT] Total: 100$ (348 x 58 px at x:753, y:1446)
+           -> Text: 'Total: 100$'
+           -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 1 (80 x 80 px at x:1021, y:1648)
+           [TEXT] + (32 x 58 px at x:1045, y:1659)
+             -> Text: '+'
+             -> Style: Inter 400 48.0px, Align: LEFT
+       [FRAME] Recipe (412 x 917 px at x:721, y:843)
+         -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=32.0, Bottom=32.0, Left=32.0, Right=32.0
+       [FRAME] Frame 22 (412 x 269 px at x:721, y:1491)
+         -> AutoLayout: VERTICAL, Gap: 36.0px, Padding: Top=32.0, Bottom=32.0, Left=24.0, Right=24.0
+         [FRAME] Frame 27 (364 x 121 px at x:745, y:1523)
+           -> AutoLayout: VERTICAL, Gap: 12.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 23 (364 x 48 px at x:745, y:1523)
+             [TEXT] 1 kg (46 x 29 px at x:904, y:1533)
+               -> Text: '1 kg'
+               -> Style: Inter 400 24.0px, Align: CENTER
+           [FRAME] Frame 26 (364 x 1 px at x:745, y:1583)
+           [FRAME] Frame 24 (364 x 48 px at x:745, y:1596)
+             [TEXT] 10$ (42 x 29 px at x:906, y:1606)
+               -> Text: '10$'
+               -> Style: Inter 400 24.0px, Align: CENTER
+         [FRAME] Frame 25 (364 x 48 px at x:745, y:1680)
+           [TEXT] Save (56 x 29 px at x:899, y:1690)
+             -> Text: 'Save'
+             -> Style: Inter 400 24.0px, Align: CENTER
+       [FRAME] Group (Edit amount) (412 x 917 px at x:723, y:1816)
+         -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=32.0, Bottom=32.0, Left=32.0, Right=32.0
+         [TEXT] < List Title (348 x 58 px at x:755, y:1848)
+           -> Text: '< List Title'
+           -> Style: Inter 400 48.0px, Align: LEFT
+         [FRAME] Frame 19 (348 x 224 px at x:755, y:2050)
+           -> AutoLayout: VERTICAL, Gap: 32.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 17 (348 x 96 px at x:755, y:2050)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 15 (348 x 96 px at x:755, y:2050)
+               -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 18 (348 x 96 px at x:755, y:2178)
+             -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+             [FRAME] Frame 15 (348 x 96 px at x:755, y:2178)
+               -> AutoLayout: VERTICAL, Gap: 24.0px, Padding: Top=, Bottom=, Left=, Right=
+         [TEXT] Total: 100$ (348 x 58 px at x:755, y:2419)
+           -> Text: 'Total: 100$'
+           -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 1 (80 x 80 px at x:1023, y:2621)
+           [TEXT] + (32 x 58 px at x:1047, y:2632)
+             -> Text: '+'
+             -> Style: Inter 400 48.0px, Align: LEFT
+       [FRAME] Recipe (412 x 917 px at x:723, y:1816)
+         -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=32.0, Bottom=32.0, Left=32.0, Right=32.0
+       [FRAME] Frame 22 (412 x 143 px at x:723, y:2621)
+         -> AutoLayout: VERTICAL, Gap: 16.0px, Padding: Top=18.0, Bottom=32.0, Left=24.0, Right=24.0
+         [TEXT] Are you sure? (155 x 29 px at x:852, y:2639)
+           -> Text: 'Are you sure?'
+           -> Style: Inter 400 24.0px, Align: CENTER
+         [FRAME] Frame 27 (364 x 48 px at x:747, y:2684)
+           -> AutoLayout: HORIZONTAL, Gap: 12.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Frame 23 (176 x 48 px at x:747, y:2684)
+             [TEXT] No (33 x 29 px at x:819, y:2694)
+               -> Text: 'No'
+               -> Style: Inter 400 24.0px, Align: CENTER
+           [FRAME] Frame 25 (176 x 48 px at x:935, y:2684)
+             [TEXT] Yes (41 x 29 px at x:1003, y:2694)
+               -> Text: 'Yes'
+               -> Style: Inter 400 24.0px, Align: CENTER
+     [FRAME] Home (Groups) (412 x 917 px at x:269, y:-164)
+       -> AutoLayout: VERTICAL, Gap: 257.0px, Padding: Top=32.0, Bottom=32.0, Left=32.0, Right=32.0
+       [TEXT] Price App (348 x 58 px at x:301, y:-132)
+         -> Text: 'Price App'
+         -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Frame 9 (348 x 284 px at x:301, y:142)
+         -> AutoLayout: VERTICAL, Gap: 28.0px, Padding: Top=, Bottom=, Left=, Right=
+         [FRAME] Frame 3 (348 x 128 px at x:301, y:142)
+           [TEXT] LIST 1 (137 x 58 px at x:407, y:177)
+             -> Text: 'LIST 1'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 4 (348 x 128 px at x:301, y:298)
+           [TEXT] LIST2 (131 x 58 px at x:410, y:333)
+             -> Text: 'LIST2'
+             -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Frame 1 (80 x 80 px at x:569, y:641)
+         [TEXT] + (32 x 58 px at x:593, y:652)
+           -> Text: '+'
+           -> Style: Inter 400 48.0px, Align: LEFT
+     [FRAME] Product Selection (412 x 917 px at x:1178, y:-164)
+       -> AutoLayout: VERTICAL, Gap: 62.0px, Padding: Top=40.0, Bottom=40.0, Left=32.0, Right=32.0
+       [TEXT] < Back (348 x 58 px at x:1210, y:-124)
+         -> Text: '< Back'
+         -> Style: Inter 400 48.0px, Align: LEFT
+       [FRAME] Frame 12 (348 x 48 px at x:1210, y:-4)
+         [TEXT] Item 1... (87 x 29 px at x:1226, y:6)
+           -> Text: 'Item 1...'
+           -> Style: Inter 400 24.0px, Align: CENTER
+       [FRAME] Frame 9 (348 x 208 px at x:1210, y:106)
+         -> AutoLayout: HORIZONTAL, Gap: 16.0px, Padding: Top=, Bottom=, Left=, Right=
+         [FRAME] Frame 3 (96 x 96 px at x:1224, y:106)
+           [TEXT] ATB (91 x 58 px at x:1226, y:125)
+             -> Text: 'ATB'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 2 (96 x 96 px at x:1336, y:106)
+           [TEXT] VAR (93 x 58 px at x:1337, y:125)
+             -> Text: 'VAR'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 4 (96 x 96 px at x:1448, y:106)
+           [TEXT] SIL (71 x 58 px at x:1460, y:125)
+             -> Text: 'SIL'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 5 (96 x 96 px at x:1224, y:218)
+           [TEXT] MY1 (97 x 58 px at x:1224, y:237)
+             -> Text: 'MY1'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 7 (96 x 96 px at x:1336, y:218)
+           [TEXT] MY2 (104 x 58 px at x:1332, y:237)
+             -> Text: 'MY2'
+             -> Style: Inter 400 48.0px, Align: CENTER
+         [FRAME] Frame 8 (96 x 96 px at x:1448, y:218)
+           [TEXT] + (32 x 58 px at x:1480, y:237)
+             -> Text: '+'
+             -> Style: Inter 400 48.0px, Align: LEFT
+     [FRAME] Add Product (412 x 917 px at x:1625, y:-164)
+       -> AutoLayout: VERTICAL, Gap: 62.0px, Padding: Top=40.0, Bottom=40.0, Left=32.0, Right=32.0
+       [TEXT] < Back (348 x 58 px at x:1657, y:-124)
+         -> Text: '< Back'
+         -> Style: Inter 400 48.0px, Align: LEFT
+       [FRAME] Frame 10 (180 x 180 px at x:1741, y:15)
+         [TEXT] + (32 x 58 px at x:1815, y:76)
+           -> Text: '+'
+           -> Style: Inter 400 48.0px, Align: LEFT
+       [FRAME] Frame 21 (348 x 180 px at x:1657, y:276)
+         -> AutoLayout: VERTICAL, Gap: 64.0px, Padding: Top=, Bottom=, Left=, Right=
+         [TEXT] Item Title (213 x 58 px at x:1724, y:276)
+           -> Text: 'Item Title'
+           -> Style: Inter 400 48.0px, Align: CENTER
+         [TEXT] Item Price ($) (348 x 58 px at x:1657, y:398)
+           -> Text: 'Item Price ($)'
+           -> Style: Inter 400 48.0px, Align: CENTER
+       [FRAME] Frame 28 (348 x 32 px at x:1657, y:536)
+         -> AutoLayout: HORIZONTAL, Gap: 12.0px, Padding: Top=, Bottom=, Left=, Right=
+         [FRAME] Frame 11 (168 x 32 px at x:1657, y:536)
+           [TEXT] pcs (41 x 29 px at x:1721, y:538)
+             -> Text: 'pcs'
+             -> Style: Inter 400 24.0px, Align: CENTER
+         [FRAME] Frame 11 (168 x 32 px at x:1837, y:536)
+           [TEXT] kg (28 x 58 px at x:1907, y:538)
+             -> Text: 'kg
+'
+             -> Style: Inter 400 24.0px, Align: CENTER
+       [FRAME] Frame 22 (348 x 64 px at x:1657, y:649)
+         [TEXT] SAVE (121 x 58 px at x:1771, y:652)
+           -> Text: 'SAVE'
+           -> Style: Inter 400 48.0px, Align: CENTER
+   [CANVAS] Note App (0 x 0 px at x:0, y:0)
+     [FRAME] Home (393 x 852 px at x:0, y:134)
+       [FRAME] Frame 2 (305 x 44 px at x:20, y:192)
+         -> AutoLayout: HORIZONTAL, Gap: 12.0px, Padding: Top=12.0, Bottom=12.0, Left=16.0, Right=16.0
+         [FRAME] Iconsax/Linear/searchnormal1 (20 x 20 px at x:36, y:204)
+         [TEXT] Search for notes (100 x 17 px at x:68, y:206)
+           -> Text: 'Search for notes'
+           -> Style: Product Sans 400 14.0px, Align: LEFT
+       [FRAME] Frame 9 (177 x 211 px at x:20, y:376)
+         [FRAME] Frame 23 (139 x 146 px at x:36, y:394)
+           -> AutoLayout: VERTICAL, Gap: 9.0px, Padding: Top=, Bottom=, Left=, Right=
+           [TEXT] Product Meeting (108 x 17 px at x:36, y:394)
+             -> Text: 'Product Meeting'
+             -> Style: Product Sans 700 14.0px, Align: LEFT
+           [TEXT] Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion (139 x 120 px at x:36, y:420)
+             -> Text: 'Review of Previous Action Items
+Product Development Update
+User Feedback and Customer Insights
+Competitive Analysis
+Roadmap Discussion '
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Frame 11 (154 x 158 px at x:20, y:607)
+         [TEXT] Shopping list (83 x 17 px at x:38, y:628)
+           -> Text: 'Shopping list'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Rice Pasta Cereal Yogurt Cheese Butter (139 x 90 px at x:35, y:653)
+           -> Text: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Iconsax/Linear/heart (16 x 16 px at x:137, y:628)
+       [FRAME] Frame 14 (154 x 158 px at x:20, y:985)
+         [TEXT] Shopping list (83 x 17 px at x:38, y:1006)
+           -> Text: 'Shopping list'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Rice Pasta Cereal Yogurt Cheese Butter (139 x 90 px at x:35, y:1031)
+           -> Text: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Frame 13 (154 x 131 px at x:20, y:785)
+         [TEXT] Notes (39 x 17 px at x:38, y:806)
+           -> Text: 'Notes'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Share insights and findings from recent competitive analysis. (118 x 60 px at x:35, y:831)
+           -> Text: 'Share insights and findings from recent competitive analysis.'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Frame 12 (187 x 235 px at x:186, y:607)
+         [TEXT] Important (65 x 17 px at x:204, y:628)
+           -> Text: 'Important'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Summarize the key action items identified during the meeting. Assign responsible team members and set deadlines for each action item. Clarify the next steps and ensure everyone is clear on their respective tasks. (138 x 165 px at x:204, y:656)
+           -> Text: 'Summarize the key action items identified during the meeting.
+Assign responsible team members and set deadlines for each action item.
+Clarify the next steps and ensure everyone is clear on their respective tasks.'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Frame 10 (164 x 211 px at x:209, y:375)
+         [TEXT] To-do list (61 x 17 px at x:227, y:396)
+           -> Text: 'To-do list'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Reply to emails Prepare presentation slides for the marketing meeting Conduct research on competitor products Schedule and plan customer interviews Take a break and recharge (139 x 150 px at x:225, y:419)
+           -> Text: 'Reply to emails
+Prepare presentation slides for the marketing meeting
+Conduct research on competitor products
+Schedule and plan customer interviews
+Take a break and recharge '
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Iconsax/Linear/heart (16 x 16 px at x:336, y:396)
+       [FRAME] Frame 9 (187 x 211 px at x:186, y:862)
+         [TEXT] Product Meeting (108 x 17 px at x:204, y:885)
+           -> Text: 'Product Meeting'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Review of Previous Action Items Product Development Update User Feedback and Customer Insights Competitive Analysis Roadmap Discussion (139 x 120 px at x:204, y:911)
+           -> Text: 'Review of Previous Action Items
+Product Development Update
+User Feedback and Customer Insights
+Competitive Analysis
+Roadmap Discussion '
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Iconsax/Linear/add (39 x 39 px at x:323, y:902)
+       [FRAME] Frame 18 (367 x 91 px at x:13, y:256)
+         -> AutoLayout: HORIZONTAL, Gap: 12.0px, Padding: Top=, Bottom=, Left=, Right=
+         [FRAME] Frame 15 (51 x 91 px at x:13, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Tue (19 x 15 px at x:29, y:268)
+             -> Text: 'Tue'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 23 (27 x 29 px at x:25, y:287)
+             -> Text: '23'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:28, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Frame 16 (52 x 91 px at x:76, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Wed (24 x 15 px at x:90, y:268)
+             -> Text: 'Wed'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 24 (28 x 29 px at x:88, y:287)
+             -> Text: '24'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:92, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Frame 17 (51 x 91 px at x:140, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Thu (20 x 15 px at x:156, y:268)
+             -> Text: 'Thu'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 25 (27 x 29 px at x:152, y:287)
+             -> Text: '25'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:156, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Frame 18 (51 x 91 px at x:203, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Fri (14 x 15 px at x:222, y:268)
+             -> Text: 'Fri'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 26 (27 x 29 px at x:215, y:287)
+             -> Text: '26'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:218, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Frame 19 (51 x 91 px at x:266, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Sat (17 x 15 px at x:283, y:268)
+             -> Text: 'Sat'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 27 (27 x 29 px at x:278, y:287)
+             -> Text: '27'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:282, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+         [FRAME] Frame 20 (51 x 91 px at x:329, y:256)
+           -> AutoLayout: VERTICAL, Gap: 4.0px, Padding: Top=12.0, Bottom=12.0, Left=12.0, Right=12.0
+           [TEXT] Sun (20 x 15 px at x:344, y:268)
+             -> Text: 'Sun'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+           [TEXT] 28 (27 x 29 px at x:341, y:287)
+             -> Text: '28'
+             -> Style: Product Sans 700 24.0px, Align: LEFT
+           [TEXT] Apr (20 x 15 px at x:344, y:320)
+             -> Text: 'Apr'
+             -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Iconsax/Linear/heart (24 x 24 px at x:345, y:202)
+     [FRAME] Notes (393 x 852 px at x:448, y:134)
+       [FRAME] Frame 14 (154 x 158 px at x:468, y:985)
+         [TEXT] Shopping list (83 x 17 px at x:486, y:1006)
+           -> Text: 'Shopping list'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Rice Pasta Cereal Yogurt Cheese Butter (139 x 90 px at x:483, y:1031)
+           -> Text: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Frame 24 (343 x 639 px at x:472, y:25)
+         -> AutoLayout: VERTICAL, Gap: 16.0px, Padding: Top=, Bottom=, Left=, Right=
+         [TEXT] Product Management (263 x 98 px at x:472, y:25)
+           -> Text: 'Product Management'
+           -> Style: Product Sans 700 40.0px, Align: LEFT
+         [TEXT] Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI (343 x 525 px at x:472, y:139)
+           -> Text: 'Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization.
+
+Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions.
+Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI'
+           -> Style: Product Sans 400 18.0px, Align: LEFT
+       [FRAME] Iconsax/Linear/arrowleft (24 x 24 px at x:468, y:202)
+             [FRAME] letters (289 x 43 px at x:500, y:813)
+               -> AutoLayout: HORIZONTAL, Gap: 5.6956520080566406px, Padding: Top=, Bottom=, Left=, Right=
+       [FRAME] mingcute:check-fill (24 x 24 px at x:797, y:202)
+     [FRAME] Notes format (393 x 852 px at x:876, y:134)
+       [FRAME] Frame 14 (154 x 158 px at x:896, y:985)
+         [TEXT] Shopping list (83 x 17 px at x:914, y:1006)
+           -> Text: 'Shopping list'
+           -> Style: Product Sans 700 14.0px, Align: LEFT
+         [TEXT] Rice Pasta Cereal Yogurt Cheese Butter (139 x 90 px at x:911, y:1031)
+           -> Text: 'Rice
+Pasta
+Cereal
+Yogurt
+Cheese
+Butter'
+           -> Style: Product Sans 400 12.0px, Align: LEFT
+       [FRAME] Iconsax/Linear/arrowleft (24 x 24 px at x:896, y:202)
+       [FRAME] Iconsax/Linear/directboxsend (24 x 24 px at x:1225, y:202)
+       [FRAME] Iconsax/Linear/heart (24 x 24 px at x:1175, y:202)
+       [TEXT] Product Management (263 x 98 px at x:896, y:258)
+         -> Text: 'Product Management'
+         -> Style: Product Sans 700 40.0px, Align: LEFT
+       [TEXT] Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization. Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions. Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI (343 x 525 px at x:899, y:372)
+         -> Text: 'Product management is a strategic role within a company that involves overseeing the development and management of a product or suite of products throughout their lifecycle. The primary goal of a product manager is to create and deliver products that meet customer needs, align with business objectives, and generate value for the organization.
+
+Market research and analysis: Product managers conduct market research to understand customer needs, preferences, and trends. They analyze market data and competitive landscape to identify opportunities and make informed product decisions.
+Product strategy: Product managers define the product vision, goals, and strategy based on market research and business objectivesI'
+         -> Style: Product Sans 400 18.0px, Align: LEFT
+       [FRAME] Frame 21 (353 x 57 px at x:896, y:914)
+         [FRAME] Frame 22 (304 x 24 px at x:921, y:931)
+           -> AutoLayout: HORIZONTAL, Gap: 16.0px, Padding: Top=, Bottom=, Left=, Right=
+           [FRAME] Iconsax/Linear/textbold (24 x 24 px at x:921, y:931)
+           [FRAME] Iconsax/Linear/textitalic (24 x 24 px at x:961, y:931)
+           [FRAME] Iconsax/Linear/textunderline (24 x 24 px at x:1001, y:931)
+           [FRAME] Iconsax/Linear/text (24 x 24 px at x:1041, y:931)
+           [FRAME] Iconsax/Linear/textalignjustifycenter (24 x 24 px at x:1081, y:931)
+           [FRAME] Iconsax/Linear/textalignjustifyleft (24 x 24 px at x:1121, y:931)
+           [FRAME] Iconsax/Linear/textaligncenter (24 x 24 px at x:1161, y:931)
+           [FRAME] Iconsax/Linear/textalignjustifyright (24 x 24 px at x:1201, y:931)
+       [FRAME] fluent:delete-24-regular (24 x 24 px at x:1125, y:202)
+     [FRAME] Inactive (43 x 38 px at x:497, y:0)
+       [FRAME] Iconsax/Linear/heart (24 x 24 px at x:507, y:7)
+     [FRAME] Active (43 x 38 px at x:562, y:0)
+       [FRAME] Iconsax/Linear/heart (24 x 24 px at x:572, y:7)

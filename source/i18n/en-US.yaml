@@ -3,6 +3,14 @@ app_name: LitScroll
 onboarding:
   a00_splash:
     key: value
+  a01_onboarding_welcome:
+    app_name: "LitScroll"
+    swipe_to_explore: "Swipe to explore"
+    title_line1: "Discover Literature in"
+    title_line2: "Immersive Passages"
+    description: "Scroll through beautifully formatted book passages like short-form content. Each passage is 1-2 pages of immersive reading."
+    start_reading: "Start Reading"
+    footer: "Curated passages from timeless literature"
   a02_onboarding_information:
     app_name: "QuoteScroll"
     subtitle: "Discover how reading feels reimagined"

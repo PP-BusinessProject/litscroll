@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
@@ -50,35 +51,36 @@ class OnboardingInformationScreen extends HookConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    final i18n = I18N.of(context);
-    final pageI18n = i18n.onboarding.a02OnboardingInformation;
+    final I18N i18n = I18N.of(context);
+    final I18N$onboarding$a02OnboardingInformation$en_US pageI18n =
+        i18n.onboarding.a02OnboardingInformation;
 
     // Access the generated PNG assets from Assets.source.assets.route_02
-    final route02Assets = Assets.source.assets.route02;
+    final $SourceAssetsRoute02Gen route02Assets = Assets.source.assets.route02;
 
     // Outer page container with animated background gradient
-    final backgroundStyle = futuristicBackground(
+    final BoxStyler backgroundStyle = futuristicBackground(
       context,
     ).alignment(.center).paddingX($Spaces.lg()).paddingY($Spaces.xl());
 
     // Logo layout styles (сжимаем по ширине и центрируем логотип)
-    final headerLogoStyle = FlexBoxStyler()
+    final FlexBoxStyler headerLogoStyle = FlexBoxStyler()
         .row()
         .spacing($Spaces.xs())
         .mainAxisAlignment(.center)
         .mainAxisSize(.min)
         .crossAxisAlignment(.center);
 
-    final logoTextStyle = TextStyler()
+    final TextStyler logoTextStyle = TextStyler()
         .style($TextStyles.h2())
         .color($Colors.textPrimary());
 
-    final subtitleStyle = TextStyler()
+    final TextStyler subtitleStyle = TextStyler()
         .style($TextStyles.bodyLarge())
         .color($GlassColors.neonPurple.resolve(context));
 
     // Styles for the main interactive button
-    final buttonStyle = BoxStyler()
+    final BoxStyler buttonStyle = BoxStyler()
         .color($GlassColors.neonPurple())
         .borderRadius(.all($Radius.medium()))
         .padding(.symmetric(horizontal: $Spaces.xl(), vertical: $Spaces.md()))
@@ -96,11 +98,11 @@ class OnboardingInformationScreen extends HookConsumerWidget {
         .onPressed(BoxStyler().scale(0.97))
         .animate(.easeOut(const Duration(milliseconds: 180)));
 
-    final buttonTextStyle = TextStyler()
+    final TextStyler buttonTextStyle = TextStyler()
         .style($TextStyles.labelButton())
         .color($Colors.textPrimary());
 
-    final linkTextStyle = TextStyler()
+    final TextStyler linkTextStyle = TextStyler()
         .style($TextStyles.bodyMedium())
         .color($Colors.textSecondary())
         .decoration(TextDecoration.underline);
@@ -109,21 +111,21 @@ class OnboardingInformationScreen extends HookConsumerWidget {
     final List<_FeatureCardData> cardList = <_FeatureCardData>[
       _FeatureCardData(
         icon: route02Assets.scroll,
-        iconSize: 23.0, // Sized precisely at 18x18 for balance
+        iconSize: 23, // Sized precisely at 18x18 for balance
         title: pageI18n.card1Title,
         description: pageI18n.card1Description,
         accentColor: $GlassColors.neonPurple.resolve(context),
       ),
       _FeatureCardData(
         icon: route02Assets.compass, // Card 2 is Compass
-        iconSize: 23.0,
+        iconSize: 23,
         title: pageI18n.card2Title,
         description: pageI18n.card2Description,
         accentColor: $GlassColors.neonBlue.resolve(context),
       ),
       _FeatureCardData(
         icon: route02Assets.heart, // Card 3 is Heart
-        iconSize: 23.0,
+        iconSize: 23,
         title: pageI18n.card3Title,
         description: pageI18n.card3Description,
         // Premium pink color accent
@@ -158,7 +160,7 @@ class OnboardingInformationScreen extends HookConsumerWidget {
                   FlexBoxStyler().column().spacing($Spaces.md())(
                     children: cardList
                         .map(
-                          (data) => _FeatureCard(
+                          (_FeatureCardData data) => _FeatureCard(
                             icon: data.icon,
                             iconSize: data.iconSize,
                             title: data.title,
@@ -216,7 +218,7 @@ class _FeatureCard extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Customizes global glassStyle with local neon border and shadow glow
-    final cardStyle = glassStyle(context)
+    final BoxStyler cardStyle = glassStyle(context)
         .border(.all(.color(accentColor.withValues(alpha: 0.35)).width(1.5)))
         .shadow(
           .color(
@@ -225,16 +227,16 @@ class _FeatureCard extends StatelessWidget {
         )
         .padding(.all($Spaces.md()));
 
-    final iconContainerStyle = BoxStyler()
+    final BoxStyler iconContainerStyle = BoxStyler()
         .color(accentColor.withValues(alpha: 0.15))
         .borderRadius(.all($Radius.small()))
         .padding(.all($Spaces.sm()));
 
-    final titleStyle = TextStyler()
+    final TextStyler titleStyle = TextStyler()
         .style($TextStyles.h3())
         .color($Colors.textPrimary());
 
-    final descriptionStyle = TextStyler()
+    final TextStyler descriptionStyle = TextStyler()
         .style($TextStyles.bodyMedium())
         .color($Colors.textSecondary())
         .textAlign(TextAlign.left);
@@ -267,6 +269,17 @@ class _FeatureCard extends StatelessWidget {
       ),
     );
   }
+
+  @override
+  void debugFillProperties(DiagnosticPropertiesBuilder properties) =>
+      super.debugFillProperties(
+        properties
+          ..add(DiagnosticsProperty<AssetGenImage>('icon', icon))
+          ..add(DoubleProperty('iconSize', iconSize))
+          ..add(StringProperty('title', title))
+          ..add(StringProperty('description', description))
+          ..add(ColorProperty('accentColor', accentColor)),
+      );
 }
 
 /// Simple model representing specific feature card configurations with PNG.

@@ -216,3 +216,40 @@ BoxStyler glassIconButtonStyle(BuildContext context) => BoxStyler()
           ),
     )
     .animate(.easeInOut(180.ms));
+
+/// Style for the "Swipe to explore" badge container.
+BoxStyler onboardingBadgeStyle(BuildContext context) => BoxStyler()
+    .color($GlassColors.secondary.resolve(context).withValues(alpha: 0.25))
+    .borderRadius(.all($Radius.small()))
+    .padding(.symmetric(horizontal: $Spaces.md(), vertical: $Spaces.xs()))
+    .border(.all(.color($GlassColors.border()).width(1)))
+    .shadow(
+      .color(
+        $GlassColors.shadow(),
+      ).blurRadius($BlurRadius.small()).offset(x: 0, y: 2),
+    );
+
+/// Reusable primary CTA button style for onboarding actions with interactive states.
+BoxStyler onboardingPrimaryButtonStyle(BuildContext context) => BoxStyler()
+    .color($GlassColors.neonPurple.resolve(context))
+    .borderRadius(.all($Radius.medium()))
+    .padding(.symmetric(horizontal: $Spaces.xl(), vertical: $Spaces.md()))
+    .width(double.infinity)
+    .alignment(.center)
+    .shadow(
+      .color(
+        $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.35),
+      ).blurRadius($BlurRadius.medium()).offset(x: 0, y: 8),
+    )
+    .onHovered(
+      BoxStyler()
+          .scale(1.03)
+          .shadow(
+            .color(
+              $GlassColors.neonPurple.resolve(context).withValues(alpha: 0.6),
+            ).blurRadius($BlurRadius.large()).offset(x: 0, y: 12),
+          ),
+    )
+    .onPressed(BoxStyler().scale(0.97))
+    .animate(.easeOut(const Duration(milliseconds: 180)));
+
