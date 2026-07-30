@@ -67,7 +67,7 @@ BoxStyler glassStyle(BuildContext context) => BoxStyler()
             .radial(
               .center(.center).radius(1.2).colors(<Color>[
                 Colors.transparent,
-                const Color(0x12000000), // soft edge darkening
+                $GlassColors.overlayDark.resolve(context), // soft edge darkening
               ]),
             ),
           ),
